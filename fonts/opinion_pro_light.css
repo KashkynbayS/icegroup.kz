@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Opinion Pro Light';
+	src: url('../fonts/opinion_pro_light.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/opinion_pro_light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/opinion_pro_light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/opinion_pro_light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/opinion_pro_light.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/opinion_pro_light.svg#opinion_pro_light') format('svg'); /* Chrome < 4, Legacy iOS */
+}

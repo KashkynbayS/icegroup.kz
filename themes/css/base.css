@@ -1,0 +1,538 @@
+#mainBody {
+    /* background: url(../images/seperator.png) repeat-x 0 0; */
+    /* padding-top: 28px; */
+    /* display: flex; */
+}
+
+
+/* #carouselBlk{background: url(../images/headerRepeat.png) repeat-x 0 0} */
+
+#srchFld {
+    background: url(../images/search.png) no-repeat 4px center #fff;
+}
+
+.tag {
+    background: url(../images/new.png) no-repeat 0 0;
+    position: absolute;
+    display: block;
+    top: -4px;
+    right: -12px;
+    height: 48px;
+    width: 48px;
+}
+
+.clr {
+    clear: both;
+}
+
+.cntr {
+    text-align: center
+}
+
+.marginLess {
+    margin: 0
+}
+
+#logoArea,
+#logoArea a {
+    line-height: 20px;
+}
+
+#logoArea .btn,
+#logoArea .btn-group {
+    margin-top: 0;
+}
+
+#logo {
+    padding-right: 28px;
+}
+
+#welcomeLine {
+    padding: 8px 0 4px
+}
+
+
+/* Sidebar--------- */
+
+#myCart img {
+    float: left;
+    margin-right: 8px;
+}
+
+#myCart .badge {
+    padding: 9px;
+}
+
+#myCart {
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 33px;
+}
+
+#sidebar ul ul li a {
+    font-size: 12px;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 0;
+    /* margin: 0; */
+    width: 100%;
+}
+
+#sidebar li a {
+    font-weight: 600;
+    background: url(../images/marker-2.gif)/* url(../images/tabRepeatInactive.png)*/
+    ;
+    background-repeat: no-repeat, repeat-x;
+    background-position: 15px 18px, 0 0;
+    color: #44494c;
+    letter-spacing: .15px;
+}
+
+#sidebar li a:hover {
+    /* color: #277280 */
+    /* color: #4499a8; */
+    color: #ffa600;
+}
+
+#sidebar ul li li a {
+    background: #eee;
+    padding-left: 14px;
+    font-weight: normal;
+    display: block;
+    font-size: 13px;
+    line-height: 26px;
+}
+
+
+/* body--- */
+
+.dostavka h5 {
+    margin: 10px;
+    color: #277280;
+    font-weight: normal;
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+.dostavka img {
+    float: left;
+}
+
+.thumbnail>a {
+    display: block;
+    text-align: center
+}
+
+.kontakty h5 {
+    text-align: justify;
+}
+
+.grafik h5 {
+    text-align: justify;
+}
+
+.grafik p {
+    text-align: justify;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+
+/* Product page--- */
+
+.alignR {
+    text-align: right;
+}
+
+.control-label.alignL,
+.alignL {
+    text-align: left;
+}
+
+.loginFrm {
+    margin-bottom: 8px;
+}
+
+.loginFrm .control-group {
+    padding: 8px 14px 0;
+    margin-bottom: 0
+}
+
+
+/* Compair product page */
+
+.checkbox input[type="checkbox"] {
+    margin: 4px 0 8px -20px
+}
+
+#sm {
+    text-align: right
+}
+
+#sm a {
+    margin: 4px;
+    width: 32px;
+}
+
+
+/* Carousel  */
+
+#myCarousel {
+    text-align: center;
+    margin-bottom: 0
+}
+
+#myCarousel .btn {
+    position: absolute;
+    bottom: 10%;
+    right: 17%;
+    padding: 2% 6%;
+    z-index: 9999
+}
+
+#myCarousel .carousel-caption {
+    display: none;
+}
+
+#myCarousel.homCar .item img {
+    width: 100%;
+    max-height: 506px
+}
+
+#productView .btn-toolbar {
+    padding-left: 3px;
+}
+
+
+/* #productDetail > li, .nav-pills > li {float: right;} */
+
+
+/* #myTabContent{text-align:justify} */
+
+#compairTbl td {
+    text-align: center;
+}
+
+#accordion2,
+#legalNotice,
+.justify,
+#mainCol {
+    text-align: justify
+}
+
+#myCarousel .carousel-control {
+    display: none
+}
+
+.da-dots {
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    left: 0px;
+    bottom: 40px;
+    z-index: 2000;
+    /* -moz-user-select: none;
+    -webkit-user-select: none; */
+}
+
+.da-dots span {
+    display: inline-block;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #005700;
+    margin: 3px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) inset, 1px 1px 1px rgba(255, 255, 255, 0.1);
+}
+
+.da-dots span.da-dots-current:after {
+    content: '';
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    border-radius: 50%;
+    background: rgb(255, 255, 255);
+    background: -moz-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 255, 255, 1)), color-stop(47%, rgba(246, 246, 246, 1)), color-stop(100%, rgba(237, 237, 237, 1)));
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
+    background: -o-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
+    background: linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=0);
+}
+
+#myTab {
+    margin-bottom: 10px;
+}
+
+#myCarousel:hover .carousel-control {
+    display: block
+}
+
+.navbar .nav>.active>a,
+.navbar .nav>.active>a:hover,
+.navbar .nav>.active>a:focus {
+    color: #fff;
+    background-color: #ffa600;
+    text-shadow: none;
+}
+
+
+/* ===========================================.telefon {========== */
+
+
+/* Light Box------------------- */
+
+#jquery-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 90;
+    width: 100%;
+    height: 500px;
+}
+
+#jquery-lightbox {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    text-align: center;
+    line-height: 0;
+}
+
+#jquery-lightbox a img {
+    border: none;
+}
+
+#lightbox-container-image-box {
+    position: relative;
+    background-color: #fff;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+#lightbox-container-image {
+    padding: 10px;
+}
+
+#lightbox-loading {
+    position: absolute;
+    top: 40%;
+    left: 0%;
+    height: 25%;
+    width: 100%;
+    text-align: center;
+    line-height: 0;
+}
+
+#lightbox-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 10;
+}
+
+#lightbox-container-image-box>#lightbox-nav {
+    left: 0;
+}
+
+#lightbox-nav a {
+    outline: none;
+}
+
+#lightbox-nav-btnPrev,
+#lightbox-nav-btnNext {
+    width: 49%;
+    height: 100%;
+    zoom: 1;
+    display: block;
+}
+
+#lightbox-nav-btnPrev {
+    left: 0;
+    float: left;
+}
+
+#lightbox-nav-btnNext {
+    right: 0;
+    float: right;
+}
+
+#lightbox-container-image-data-box {
+    font: 10px Verdana, Helvetica, sans-serif;
+    background-color: #fff;
+    margin: 0 auto;
+    line-height: 1.4em;
+    overflow: auto;
+    width: 100%;
+    padding: 0 10px 0;
+}
+
+#lightbox-container-image-data {
+    padding: 0 10px;
+    color: #666;
+}
+
+#lightbox-container-image-data #lightbox-image-details {
+    width: 70%;
+    float: left;
+    text-align: left;
+}
+
+#lightbox-image-details-caption {
+    font-weight: bold;
+}
+
+#lightbox-image-details-currentNumber {
+    display: block;
+    clear: left;
+    padding-bottom: 1.0em;
+}
+
+#lightbox-secNav-btnClose {
+    width: 66px;
+    float: right;
+    padding-bottom: 0.7em;
+}
+
+
+/* ------------------------------- */
+
+.navbar-search .srchTxt {
+    border-radius: 0;
+    border: 1px solid #444;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    background-image: none;
+}
+
+.navbar .nav>li>a {
+    color: #fff;
+    text-shadow: none;
+    font-size: 18px;
+    /* padding: 10px 39.4px; */
+    padding: 10px 0;
+    background-color: rgb(85 85 113);
+    text-align: center;
+    bottom: -10px;
+    /* border-right: 1px solid #fff;*/
+}
+
+.navbar .nav>li>a:hover {
+    background-color: rgb(221, 150, 19);
+    color: rgb(255, 255, 255);
+}
+
+#logoArea,
+#logoArea a {
+    outline: none;
+}
+
+#logoArea {
+    height: 151px;
+    z-index: 53;
+}
+
+.alignR .checkbox input[type="checkbox"] {
+    float: right;
+    margin: 4px 0 8px 11px;
+}
+
+.telefon {
+    display: inline-block;
+    font-size: 20px;
+    color: #ff9601;
+    padding: 0px 0 0 0;
+}
+
+.telefon .zhir {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.telefon-notmain .zhir {
+    font-size: 26px;
+}
+
+.telefon-notmain .header_tel_num_initial_1,
+.telefon-notmain .header_tel_num_initial_2 {
+    font-size: 22px;
+}
+
+.grid_3 {
+    text-align: right;
+}
+
+@media (max-width: 767px) {
+    .grid_3 {
+        text-align: center;
+    }
+    .grid_3 span {
+        font-size: 16px !important
+    }
+    .telefon .zhir {
+        font-size: 20px !important;
+    }
+    /* span.telefon-astana {
+        padding: 8px 0 5px 0 !important;
+    } */
+    .telefon-notmain .zhir {
+        font-size: 24px !important;
+    }
+    .telefon-notmain .header_tel_num_initial_1,
+    .telefon-notmain .header_tel_num_initial_2 {
+        font-size: 20px !important;
+    }
+}
+
+@media (max-width: 568px) {
+    .grid_3 span {
+        font-size: 14px !important
+    }
+    .telefon .zhir {
+        font-size: 18px !important;
+    }
+    .telefon-notmain .zhir {
+        font-size: 22px !important;
+    }
+    .telefon-notmain .header_tel_num_initial_1,
+    .telefon-notmain .header_tel_num_initial_2 {
+        font-size: 18px !important;
+    }
+}
+
+@media (max-width: 415px) {
+    .telefon-notmain .zhir {
+        font-size: 22px !important;
+    }
+    .telefon-notmain .header_tel_num_initial_1,
+    .telefon-notmain .header_tel_num_initial_2 {
+        font-size: 18px !important;
+    }
+}
+
+.navbar .nav.pull-right,
+#sideManu {
+    overflow: hidden;
+}
+
+#logoArea #smallScreen {
+    margin: 21px 14px 0 0;
+}
+
+.navbar-search {
+    margin-top: 8px;
+}

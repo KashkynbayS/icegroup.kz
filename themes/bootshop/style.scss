@@ -1,0 +1,17 @@
+.thumbnails {
+    &._active {
+        li {
+            @for $var from 1 to 6 {
+                $delay: $var * 0.2;
+                &:nth-child(#{$var}) {
+                    @if $var==1 {
+                        transition: transform 0.8s ease 0s;
+                    }
+                    @else {
+                        transition: transform 0.8s ease #{$delay + s};
+                    }
+                }
+            }
+        }
+    }
+}

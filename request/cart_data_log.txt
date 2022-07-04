@@ -1,0 +1,26 @@
+array (
+  1525 => 
+  array (
+    'id' => '1525',
+    'title' => '<a href=\'https://icegroup.kz/bc105.html\'>Холодильный шкаф Polair BC105</a>',
+    'price' => '167960',
+    'quantity' => '1',
+    'img' => 'https://icegroup.kz/themes/images/products/shkaf/polair/main/20.jpg',
+    'count' => '1',
+  ),
+)
+array (
+  'user_name' => 'Умарова Светлана Михайловна ',
+  'user_phone' => '7716834484',
+  'user_mail' => 'Umarova.cveta@mail.ru ',
+  'city_text' => 'Караганды',
+  'user_address' => 'П.Кушокы ',
+  'user_comment' => '',
+)array (
+  'user_name' => 'Умарова Светлана Михайловна ',
+  'user_phone' => '7716834484',
+  'user_mail' => 'Umarova.cveta@mail.ru ',
+  'city_text' => 'Караганды',
+  'user_address' => 'П.Кушокы ',
+  'user_comment' => '',
+)
