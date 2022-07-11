@@ -166,30 +166,37 @@ footer_block2.innerHTML = `
 // ________________________________Изменить номер телефона и адресс на sidebar при смене города__________________________________________
 
 
-let katalog_contacts_block = document.querySelector('.katalog-contacts-block')
-if (katalog_contacts_block != null) {
-    katalog_contacts_block.innerHTML = `<div class="contacts-block-left">
-                                            <i class="fa fa-map-marker-alt fa-contacts" style="font-size: 25px; padding-top: 3px" aria-hidden="true"></i><br>
-                                            
-                                        </div>
-                                        <div class="contacts-block-right">
-                                            <div class="contacts-block-right-city">
-                                                <p style="cursor: default;">
-                                                    <a href="shymkent.html"><b>г. Шымкент:</b></a>
-                                            </div>
-                                            <div class="contacts-block-right-address">
-                                                <a href="shymkent.html">ул. Мадели кожа 35/1, <br> (уг.ул. Байтурсынова) <br> 1-этаж, бизнес-центр BNK</a>
-                                            </div>
-                                            <div class="contacts-block-right-email">
-                                                <a href="mailto:shymkent@idiamarket.kz">shymkent@idiamarket.kz</a>
-                                            </div>
-                                            <div>
-                                                <a href="tel:87252399900">8 (7252) 39-99-00</a>
-                                            </div>
-                                            <div class="contacts-block-right-telephone">
-                                                <a href="tel:87019447700">+7 (701) 944 77 00</a>
-                                            </div>
-                                        </div>`
+
+let katalog_contacts_block = document.querySelectorAll('.katalog-contacts-block');
+
+for (let i = 0; i < katalog_contacts_block.length; i++) {
+
+    if (i === 0 && katalog_contacts_block != null) {
+
+        katalog_contacts_block[0].innerHTML = `<div class="contacts-block-left">
+                                                    <i class="fa fa-map-marker-alt fa-contacts" style="font-size: 25px; padding-top: 3px" aria-hidden="true"></i><br>
+                                                    
+                                                </div>
+                                                <div class="contacts-block-right">
+                                                    <div class="contacts-block-right-city">
+                                                        <p style="cursor: default;">
+                                                            <a href="shymkent.html"><b>г. Шымкент:</b></a>
+                                                    </div>
+                                                    <div class="contacts-block-right-address">
+                                                        <a href="shymkent.html">ул. Мадели кожа 35/1, <br> (уг.ул. Байтурсынова) <br> 1-этаж, бизнес-центр BNK</a>
+                                                    </div>
+                                                    <div class="contacts-block-right-email">
+                                                        <a href="mailto:shymkent@idiamarket.kz">shymkent@idiamarket.kz</a>
+                                                    </div>
+                                                    <div>
+                                                        <a href="tel:87252399900">8 (7252) 39-99-00</a>
+                                                    </div>
+                                                    <div class="contacts-block-right-telephone">
+                                                        <a href="tel:87019447700">+7 (701) 944 77 00</a>
+                                                    </div>
+                                                </div>`;
+
+    } else katalog_contacts_block[i].remove();
 }
 
 

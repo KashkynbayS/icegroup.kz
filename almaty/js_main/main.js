@@ -83,8 +83,8 @@ if (location_almaty1 != null || location_nursultan1 != null || location_shymkent
 
 
 
-let footer_block2 = document.querySelector('.footer-block2')
-footer_block2.classList.add("footer-block2-notmain")
+let footer_block2 = document.querySelector('.footer-block2');
+footer_block2.classList.add("footer-block2-notmain");
 
 footer_block2.innerHTML = `
                                 <div class="foot-one wrappers ">
@@ -140,6 +140,18 @@ footer_block2.innerHTML = `
                                 </div>
                             `
 
+
+
+// ________________________________Изменить номер телефона и адресс на sidebar при смене города__________________________________________
+
+
+
+let katalog_contacts_block = document.querySelectorAll('.katalog-contacts-block');
+
+for (let i = 1; i < katalog_contacts_block.length; i++) {
+
+    katalog_contacts_block[i].remove();
+}
 
 
 

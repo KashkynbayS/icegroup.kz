@@ -166,9 +166,15 @@ footer_block2.innerHTML = `
 // ________________________________Изменить номер телефона и адресс на sidebar при смене города__________________________________________
 
 
-let katalog_contacts_block = document.querySelector('.katalog-contacts-block')
-if (katalog_contacts_block != null) {
-    katalog_contacts_block.innerHTML = `<div class="contacts-block-left">
+
+
+let katalog_contacts_block = document.querySelectorAll('.katalog-contacts-block');
+
+for (let i = 0; i < katalog_contacts_block.length; i++) {
+
+    if (i === 0 && katalog_contacts_block != null) {
+
+        katalog_contacts_block[0].innerHTML = `<div class="contacts-block-left">
                                             <i class="fa fa-map-marker-alt fa-contacts" style="font-size: 25px; padding-top: 3px" aria-hidden="true"></i><br>
                                             
                                         </div>
@@ -189,7 +195,9 @@ if (katalog_contacts_block != null) {
                                             <div class="contacts-block-right-telephone">
                                                 <a href="tel:87015112200">+7 (701) 511-22-00</a>
                                             </div>
-                                        </div>`
+                                        </div>`;
+
+    } else katalog_contacts_block[i].remove();
 }
 
 
