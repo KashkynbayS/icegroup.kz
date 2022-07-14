@@ -56,7 +56,6 @@ if (dropdown_ala != null) {
 // ___________________________________Страница не меняется при смене ссылок__________________________________________________
 
 
-
 let location_almaty1 = document.querySelector('.location-almaty')
 let location_nursultan1 = document.querySelector('.location-nursultan')
 let location_shymkent1 = document.querySelector('.location-shymkent')
