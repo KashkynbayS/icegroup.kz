@@ -9629,13 +9629,14 @@ p.katalog-kontakty {
     opacity: 0.5;
 }
 
+.service__block1__img1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.71)), url("/themes/images/service/webp/main.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-/* .service__block1__img1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.71)), url("/themes/images/service/webp/main.webp") no-repeat fixed center / cover;
-    background-position: center center;
-} */
 
-.service__block1__img1::before {
+/* .service__block1__img1::before {
     background: url("/themes/images/service/webp/main.webp") no-repeat 50% / cover;
     content: '';
     top: 0;
@@ -9644,7 +9645,7 @@ p.katalog-kontakty {
     right: 0;
     position: fixed;
     z-index: -1;
-}
+} */
 
 .about__block1__img2 {
     background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("/themes/images/about/webp/7.webp") no-repeat fixed center / cover;
@@ -10172,7 +10173,6 @@ p.katalog-kontakty {
     display: flex;
     flex-direction: row;
     height: 100%;
-    background-color: #fff;
 }
 
 .threeD__des {
