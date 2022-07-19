@@ -9617,7 +9617,7 @@ p.katalog-kontakty {
     justify-content: center;
     height: 500px;
     width: 100%;
-    background: url("/themes/images/about/webp/about-bg.webp") no-repeat fixed top / cover;
+    /* background: url("/themes/images/about/webp/about-bg.webp") no-repeat fixed top / cover; */
     /* background-repeat: no-repeat;
     position: fixed;
     background-position: center / cover; */
@@ -9630,8 +9630,13 @@ p.katalog-kontakty {
 }
 
 .service__block1__img1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.71)), url("/themes/images/service/webp/main.webp") no-repeat fixed center / cover;
+    /* background: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.71)), url("/themes/images/service/webp/main.webp") no-repeat fixed center / cover; */
+    /* background-position: bottom bottom; */
+    /* background-image: url("/themes/images/service/webp/main.webp"); */
     background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .about__block1__img2 {
@@ -10198,7 +10203,7 @@ p.katalog-kontakty {
 
 .threeD__img {
     width: 50%;
-    background: url("/themes/images/3D_Design/sklad/17-178368_view-more-.webp") no-repeat center / cover;
+    background: url("/themes/images/3D_Disign/sklad/bestChertezh.webp") no-repeat center / cover;
     background-position: center top;
     background-size: 100%;
 }

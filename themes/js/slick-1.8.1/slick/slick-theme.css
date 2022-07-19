@@ -27,8 +27,8 @@
     position: absolute;
     top: 50%;
     display: block;
-    width: 20px;
-    height: 20px;
+    width: 27px;
+    height: 27px;
     padding: 0;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
@@ -93,7 +93,7 @@
 
 .slick-next {
     /* right: -25px; */
-    right: 10.6px;
+    right: 4.5px;
 }
 
 [dir='rtl'] .slick-next {
