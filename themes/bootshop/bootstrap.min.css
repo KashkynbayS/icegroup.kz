@@ -9629,14 +9629,21 @@ p.katalog-kontakty {
     opacity: 0.5;
 }
 
-.service__block1__img1 {
-    /* background: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.71)), url("/themes/images/service/webp/main.webp") no-repeat fixed center / cover; */
-    /* background-position: bottom bottom; */
-    /* background-image: url("/themes/images/service/webp/main.webp"); */
+
+/* .service__block1__img1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.71)), url("/themes/images/service/webp/main.webp") no-repeat fixed center / cover;
     background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+} */
+
+.service__block1__img1::before {
+    background: url("/themes/images/service/webp/main.webp") no-repeat 50% / cover;
+    content: '';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    z-index: -1;
 }
 
 .about__block1__img2 {
