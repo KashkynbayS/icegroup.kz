@@ -9617,10 +9617,10 @@ p.katalog-kontakty {
     justify-content: center;
     height: 500px;
     width: 100%;
-    /* background: url("/themes/images/about/webp/about-bg.webp") no-repeat fixed top / cover; */
-    /* background-repeat: no-repeat;
-    position: fixed;
-    background-position: center / cover; */
+    background: url("/themes/images/about/webp/about-bg.webp") no-repeat fixed top / cover;
+    /* background-repeat: no-repeat; */
+    /* position: fixed; */
+    /* background-position: center / cover; */
 }
 
 .about__block1__img1:before {
@@ -9630,22 +9630,9 @@ p.katalog-kontakty {
 }
 
 .service__block1__img1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.71)), url("/themes/images/service/webp/main.webp");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.71)), url("/themes/images/service/webp/main.webp") no-repeat fixed center / cover;
+    background-position: center center;
 }
-
-
-/* .service__block1__img1::before {
-    background: url("/themes/images/service/webp/main.webp") no-repeat 50% / cover;
-    content: '';
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    position: fixed;
-    z-index: -1;
-} */
 
 .about__block1__img2 {
     background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("/themes/images/about/webp/7.webp") no-repeat fixed center / cover;
@@ -11547,7 +11534,7 @@ section::after {
 }
 
 .about_img_text {
-    background-image: url("/themes/images/about/webp/about-bg.webp");
+    /* background-image: url("/themes/images/about/webp/about-bg.webp"); */
 }
 
 .ostavit-otzov {
