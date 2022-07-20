@@ -7990,12 +7990,12 @@ div.clock:hover {
 }
 
 #office_info_img .slick-next {
-    right: 14px;
+    right: 2px;
     transition: 0.2s;
 }
 
 #office_info_img:hover .slick-next {
-    right: 20px;
+    right: 8px;
     transition: 0.2s;
 }
 
@@ -13001,6 +13001,12 @@ a.basket {
     }
     .search-heading {
         font-size: 14px;
+    }
+    #featured5 .left.carousel-control {
+        left: -38px;
+    }
+    #featured5 .carousel-control.right {
+        right: -38px;
     }
 }
 
