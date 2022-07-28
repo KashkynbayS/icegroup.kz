@@ -53,7 +53,7 @@ if (isset($_SESSION["send"]) and $_SESSION["send"]!="") {    //вывод соо
   <head>
   <script src='https://www.google.com/recaptcha/api.js'></script>
     <meta charset="utf-8">
-    <title>Отзывы о компании Icegroup - холодильные оборудования: холодильные шкафы, витрины, бонеты, морозильные лари, кондитерские витрины, настольные витрины, холодильные столы Нур-Султан. </title>
+    <title>Отзывы о компании Icegroup - холодильные оборудования: холодильные шкафы, витрины, бонеты, морозильные лари, кондитерские витрины, настольные витрины, холодильные столы в Нур-Султан. </title>
      
    <meta name="keywords" content="Отзывы о компании Icegroup Idia market">
 <meta name="description" content="Отзывы о компании Icegroup IDIA Market">
@@ -430,7 +430,6 @@ echo '<div id="last" class="ostavit-otzov">
 <script src="/themes/js/smart-search.js"></script> 
 <link href="/themes/css/jqcart.css" rel="stylesheet" />
     <script src="/themes/js/jqcart.min.js"></script>
-<script src="js_main/main.js"></script>
 <script src="js_main/main.js"></script >
 <script src="/themes/js/jquery.maskedinput.min.js"></script>
     <script>

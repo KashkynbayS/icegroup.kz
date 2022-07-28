@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
       <title>Контакты IceGroup: улица Мынбаева 43 115-офис. 87273449900</title>
-<meta name="keywords" content="контакты Icegroup, Idia market Нур-Султан">
+<meta name="keywords" content="контакты Icegroup, Idia market в Нур-Султан">
 <meta name="description" content="Контакты, адрес, телефон компании Icegroup. Звоните!">
 <!--Less styles -->
    <!-- Other Less css file //different less files has different color scheam
@@ -202,7 +202,6 @@ if(isset($_POST['search'])){
 <script src="/themes/js/smart-search.js"></script> 
 <link href="/themes/css/jqcart.css" rel="stylesheet" />
     <script src="/themes/js/jqcart.min.js"></script>
-<script src="js_main/main.js"></script>
 <script src="js_main/main.js"></script >
 <script src="/themes/js/jquery.maskedinput.min.js"></script>
     <script>
