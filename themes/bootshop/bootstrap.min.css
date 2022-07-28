@@ -11534,7 +11534,7 @@ section::after {
 }
 
 .about_img_text {
-    /* background-image: url("/themes/images/about/webp/about-bg.webp"); */
+    background-image: url("/themes/images/about/webp/about-bg.webp");
 }
 
 .ostavit-otzov {
