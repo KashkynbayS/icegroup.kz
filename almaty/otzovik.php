@@ -430,6 +430,7 @@ echo '<div id="last" class="ostavit-otzov">
 <script src="/themes/js/smart-search.js"></script> 
 <link href="/themes/css/jqcart.css" rel="stylesheet" />
     <script src="/themes/js/jqcart.min.js"></script>
+<script src="js_main/main.js"></script>
 <script src="js_main/main.js"></script >
 <script src="/themes/js/jquery.maskedinput.min.js"></script>
     <script>
