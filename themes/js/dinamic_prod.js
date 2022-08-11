@@ -1403,42 +1403,123 @@ const blockViewDiv = document.getElementById('blockView');
 let pageName = window.location.href.split('/').pop().split('#')[0].split('?')[0];
 
 
-// const priceSort = document.getElementById('priceSort');
-// let priceSortedArray = data.sort(function(a, b) {
-//     let x = a.price;
-//     let y = b.price;
 
-//     return x - y;
-// });
-// let initialArray = priceSortedArray;
+// _____________________Сортировка по убыванию и возрастанию________________________
 
-// let initStage = true;
+let current_object = {};
 
-// priceSort.addEventListener("change", function() {
-//     if (priceSort.value == "first") {
-//         priceSortedArray = data.sort(function(a, b) {
-//             let x = a.price;
-//             let y = b.price;
+switch (pageName) {
+    case "holod_steklo.html":
+        current_object = holod_steklo
+        break;
+    case "holod_steklo_2dver.html":
+        current_object = holod_steklo_2dver
+        break;
+    case "holod_closed.html":
+        current_object = holod_closed
+        break;
+    case "holod_pharmacy.html":
+        current_object = holod_pharmacy
+        break;
+    case "holod_vitrina.html":
+        current_object = holod_vitrina
+        break;
+    case "pristen_vitrina.html":
+        current_object = pristen
+        break;
+    case "boneta.html":
+        current_object = boneta
+        break;
+    case "lar.html":
+        current_object = lar
+        break;
+    case "kondit.html":
+        current_object = kondit
+        break;
+    case "nastol.html":
+        current_object = nastol
+        break;
+    case "holod_stol.html":
+        current_object = holod_stol
+        break;
+    case "holod_camera.html":
+        current_object = holod_camera
+        break;
+    case "holod_ustanovka.html":
+        current_object = holod_ustanovka
+        break;
+    default:
+        break;
+}
 
-//             return x - y;
-//         });
-
-//     } else if (priceSort.value == "second") {
-//         priceSortedArray = data.sort(function(a, b) {
-//             let x = a.price;
-//             let y = b.price;
-
-//             return y - x;
-//         });
-//     }
-
-//     initialArray = priceSortedArray;
-//     filterArray();
-// });
+const priceSort = document.getElementById('priceSort');
+const text_box = document.querySelector('.text-box');
+const sort_current2 = document.querySelector('.sort-current');
 
 
 
+let cloneObject = JSON.parse(JSON.stringify(current_object)); // Клонируем объект
 
+priceSort.addEventListener("click", function(e) {
+
+    if (e.target.textContent == "популярности") {
+        displayList(cloneObject);
+        displayBlock(cloneObject);
+        myTabBlock.addEventListener('click', function() {
+            displayBlock(cloneObject);
+        });
+        myTabList.addEventListener('click', function() {
+            displayList(cloneObject);
+        });
+
+    } else if (e.target.textContent == "новизне") {
+        current_object.sort(function(a, b) {
+            let x = +a.code;
+            let y = +b.code;
+            return y - x;
+        });
+
+        displayList(current_object);
+        displayBlock(current_object);
+        myTabBlock.addEventListener('click', function() {
+            displayBlock(current_object);
+        });
+        myTabList.addEventListener('click', function() {
+            displayList(current_object);
+        });
+
+    } else if (e.target.textContent == "возрастанию цены") {
+        current_object.sort(function(a, b) {
+            let x = a.price;
+            let y = b.price;
+            return x - y;
+        });
+        displayList(current_object);
+        displayBlock(current_object);
+        myTabBlock.addEventListener('click', function() {
+            displayBlock(current_object);
+        });
+        myTabList.addEventListener('click', function() {
+            displayList(current_object);
+        });
+
+    } else if (e.target.textContent == "убыванию цены") {
+        current_object.sort(function(a, b) {
+            let x = a.price;
+            let y = b.price;
+            return y - x;
+        });
+        displayList(current_object);
+        displayBlock(current_object);
+        myTabBlock.addEventListener('click', function() {
+            displayBlock(current_object);
+        });
+        myTabList.addEventListener('click', function() {
+            displayList(current_object);
+        });
+    }
+});
+// _______________________________________
 
 var formatter = function(priceSum) {
     let mn = 0;
@@ -1546,7 +1627,6 @@ function displayBlock(array) {
                                         </div>
                                     </div>`);
     });
-    // _______________________________________________________________
 
 
 }

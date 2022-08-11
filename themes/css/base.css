@@ -267,10 +267,6 @@
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=0);
 }
 
-#myTab {
-    margin-bottom: 10px;
-}
-
 #myCarousel:hover .carousel-control {
     display: block
 }

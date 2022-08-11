@@ -25,7 +25,6 @@ location_ala.innerHTML = `<div class="location">
                             </div>
                         </div>`
 
-
 let dropdown_ala = document.querySelector(".location-container")
 
 let loc_ala = document.querySelector('.location-name')
@@ -40,7 +39,7 @@ if (dropdown_ala != null) {
 
         loc_options_ala.onclick = e => {
             loc_ala.innerHTML = e.target.innerText
-            console.log(e.target.innerText);
+                // console.log(e.target.innerText);
 
         }
 
