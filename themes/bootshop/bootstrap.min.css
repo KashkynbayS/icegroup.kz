@@ -4384,6 +4384,7 @@ input[type="submit"].btn.btn-mini {
 
 #mainBody .container .row .span9 .span5 {
     width: 100%;
+    margin-top: 20px;
 }
 
 .span9 #myTabContent .tab-pane .span__1,
@@ -10689,6 +10690,11 @@ section::after {
     opacity: 1;
 }
 
+h1.main_h3 {
+    font-size: 24px;
+    margin: 20px 0px 10px 0px;
+}
+
 
 /* ___________________________________________________ */
 
@@ -12873,6 +12879,35 @@ ul.js-dropdown-list {
     padding: .5em;
     cursor: pointer;
 } */
+
+
+/* ________________________________________________ */
+
+.product_size {
+    display: flex;
+    justify-content: center;
+}
+
+.product_size img {
+    width: 500px;
+}
+
+
+/* ________________________________________________ */
+
+.product_color {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px;
+}
+
+.product_color span {
+    font-weight: bold;
+}
+
+.product_color img {
+    width: 40%;
+}
 
 
 /* ________________________________________________ */

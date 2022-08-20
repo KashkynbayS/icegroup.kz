@@ -346,238 +346,305 @@ const holod_pharmacy = [{
 // ________________________________Холодильные витрины_______________________________________________
 
 const holod_vitrina = [{
-    link: "gc95.html",
-    title: "Холодильная витрина GC95",
-    desc: "Серия напольных холодильных витрин CARBOMA GC95 это: - лаконичные формы с одной целью: максимальный акцент на продукты; - только энергосберегающие технологии (низкоэмиссионное стекло, LED-освещение в базовой комплектации)",
-    img: "/themes/images/products/vitrina/polus/list/77.jpg",
-    img2: "/themes/images/products/vitrina/polus/main/77.jpg",
-    price: 329794,
-    code: "1617"
-}, {
-    link: "gc110.html",
-    title: "Холодильная витрина GC110",
-    desc: "Серия напольных холодильных витрин CARBOMA GC110 это: - лаконичные формы с одной целью: максимальный акцент на продукты; - конфигурация любой формы и соединение в линии; - только энергосберегающие технологии (низкоэмиссионное стекло, LED-освещение в базовой комплектации)",
-    img: "/themes/images/products/vitrina/polus/list/8.jpg",
-    img2: "/themes/images/products/vitrina/polus/main/8.jpg",
-    price: 349700,
-    code: "1639"
-}, {
-    link: "carboma_close.html",
-    title: "Холодильная витрина Carboma закрытая",
-    desc: "Холодильная витрина Carboma закрытая отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
-    img: "/themes/images/products/vitrina/polus/list/9.png",
-    img2: "/themes/images/products/vitrina/polus/main/9.png",
-    price: 378214,
-    code: "1618"
-}, {
-    link: "carboma_open.html",
-    title: "Холодильная витрина Carboma открытая",
-    desc: "Холодильная витрина Carboma открытая отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
-    img: "/themes/images/products/vitrina/polus/main/99.jpg",
-    img2: "/themes/images/products/vitrina/polus/main/99.jpg",
-    price: 453534,
-    code: "1619"
-}, {
-    link: "vitrina_polus.html",
-    title: "Холодильная витрина Полюс",
-    desc: "Холодильная витрина Полюс отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
-    img: "/themes/images/products/vitrina/polus/list/10.png",
-    img2: "/themes/images/products/vitrina/polus/main/10.png",
-    price: 319572,
-    code: "1620"
-}, {
-    link: "vitrina_eko_maxi.html",
-    title: "Холодильная витрина Эко Maxi",
-    desc: "Холодильная витрина Эко Maxi отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
-    img: "/themes/images/products/vitrina/polus/list/20.jpg",
-    img2: "/themes/images/products/vitrina/polus/main/20.jpg",
-    price: 149093,
-    code: "1621"
-}, {
-    link: "vitrina_eko_mini.html",
-    title: "Холодильная витрина Эко Mini",
-    desc: "Холодильная витрина Эко Mini отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
-    img: "/themes/images/products/vitrina/polus/list/30.jpg",
-    img2: "/themes/images/products/vitrina/polus/main/30.jpg",
-    price: 92093,
-    code: "1622"
-}, {
-    link: "ilet_bhx.html",
-    title: "Холодильная витрина ILET BXH",
-    desc: "Холодильная витрина ILET BXH предназначены для презентации и продажи мяса, птицы, колбасно-молочных и гастрономических изделия в магазинах с небольшими торговыми площадями и узкими дверными проемами.",
-    img: "/themes/images/products/vitrina/mxm/list/5.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/5.jpg",
-    price: 482680,
-    code: "1623"
-}, {
-    link: "ilet_bhc.html",
-    title: "Холодильная витрина ILET BXC",
-    desc: "Холодильная витрина ILET BXC для продовольственных магазинов любого формата, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, пенополиуретан BASF, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/6.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/6.jpg",
-    price: 380260,
-    code: "1624"
-}, {
-    link: "nova_bxh.html",
-    title: "Холодильная витрина Nova ВХН",
-    desc: "Холодильная витрина Nova ВХН эконом-класса для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, электродвигатели EBM PAPST, пенополиуретан BASF, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/7.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/7.jpg",
-    price: 335116,
-    code: "1625"
-}, {
-    link: "tair_bxh.html",
-    title: "Холодильная витрина Tair ВХН",
-    desc: "Холодильная витрина Tair ВХН для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, электродвигатели EBM PAPST, пенополиуретан BASF, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/main/8.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/8.jpg",
-    price: 389060,
-    code: "1626"
-}, {
-    link: "ilet_bxcd.html",
-    title: "Холодильная витрина ILET BXCD",
-    desc: "Холодильная витрина ILET BXCD для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, электродвигатели EBM PAPST, пенополиуретан BASF, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/9.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/9.jpg",
-    price: 462837,
-    code: "1627"
-}, {
-    link: "ilet_bxch.html",
-    title: "Холодильная витрина ILET BXCH",
-    desc: "Холодильная витрина ILET BXCH для продовольственных магазинов любого формата, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, пенополиуретан BASF, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/10.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/10.jpg",
-    price: 212990,
-    code: "1628"
-}, {
-    link: "ilet_bxcho.html",
-    title: "Холодильная витрина ILET BXCO",
-    desc: "Холодильная витрина ILET BXCO для продовольственных магазинов любого формата, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, пенополиуретан BASF, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/1000.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/1000.jpg",
-    price: 368181,
-    code: "1629"
-}, {
-    link: "bxc_ub.html",
-    title: "Холодильная витрина ВХС-УВ Илеть",
-    desc: "Холодильная витрина ВХС-УВ: угол внутренний ВХС-УВ Илеть и угол наружный ВХС-УН Илеть (внутренний и наружный угловые модули 90°), предназначены для хранения, демонстрации и продажи предварительно охлаждённых пищевых продуктов в продовольственных магазинах любого формата, кафе, других предприятиях общественного питания..",
-    img: "/themes/images/products/vitrina/mxm/list/11.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/11.jpg",
-    price: 592920,
-    code: "1630"
-}, {
-    link: "bxc_uh.html",
-    title: "Холодильная витрина ВХС-УН Илеть",
-    desc: "Холодильная витрина ВХС-УН: угол внутренний ВХС-УВ Илеть и угол наружный ВХС-УН Илеть (внутренний и наружный угловые модули 90°), предназначены для хранения, демонстрации и продажи предварительно охлаждённых пищевых продуктов в продовольственных магазинах любого формата, кафе, других предприятиях общественного питания.",
-    img: "/themes/images/products/vitrina/mxm/list/13.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/13.jpg",
-    price: 564675,
-    code: "1631"
-}, {
-    link: "bxco_uh.html",
-    title: "Холодильная витрина ВХСo-УН Илеть",
-    desc: "Холодильная витрина ВХСo-УH для продовольственных магазинов любого формата, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss, контроллер Evco, Carel или Danfoss, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/12.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/12.jpg",
-    price: 531405,
-    code: "1632"
-}, {
-    link: "tair_bxc_uh.html",
-    title: "Холодильная витрина Tair ВХС-УН",
-    desc: "Холодильная витрина Tair ВХС-УН (наружный и внутренний угловые модули 90°), обслуживаемые продавцом, предназначены для демонстрации и продажи предварительно охлаждённых пищевых продуктов и позволяют составлять из витрин марки Таир линии специальной конфигурации с поворотами.",
-    img: "/themes/images/products/vitrina/mxm/list/14.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/14.jpg",
-    price: 569655,
-    code: "1633"
-}, {
-    link: "tair_bxc_ub.html",
-    title: "Холодильная витрина Tair ВХС-УВ",
-    desc: "Холодильная витрина Tair ВХС-УВ (наружный и внутренний угловые модули 90°), обслуживаемые продавцом, предназначены для демонстрации и продажи предварительно охлаждённых пищевых продуктов и позволяют составлять из витрин марки Таир линии специальной конфигурации с поворотами.",
-    img: "/themes/images/products/vitrina/mxm/list/15.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/15.jpg",
-    price: 573441,
-    code: "1634"
-}, {
-    link: "parabel_bxc.html",
-    title: "Холодильная витрина Parabel ВХС",
-    desc: "Холодильная витрина Parabel ВХС c механизмом подъема стекла для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/16.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/16.jpg",
-    price: 347870,
-    code: "1635"
-}, {
-    link: "parabel_bxc_ub.html",
-    title: "Холодильная витрина Parabel ВХС-УВ",
-    desc: "Холодильная витрина Parabel ВХС-УВ c механизмом подъема стекла для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/17.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/17.jpg",
-    price: 737014,
-    code: "1636"
-}, {
-    link: "parabel_bxc_uh.html",
-    title: "Холодильная витрина Parabel ВХС-УН",
-    desc: "Холодильная витрина Parabel ВХС-УН c механизмом подъема стекла для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/18.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/18.jpg",
-    price: 719778,
-    code: "1637"
-}, {
-    link: "parabel_bxco.html",
-    title: "Холодильная витрина Parabel ВХСo",
-    desc: "Холодильная витрина Parabel ВХСo c механизмом подъема стекла для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, пищевая нержавеющая сталь.",
-    img: "/themes/images/products/vitrina/mxm/list/19.jpg",
-    img2: "/themes/images/products/vitrina/mxm/main/19.jpg",
-    price: 299344,
-    code: "1638"
-}, {
-    link: "cryspi_octava_SN_1200.html",
-    title: "Холодильная витрина CRYSPI Octava SN 1200",
-    desc: "Холодильная витрина Cryspi Octava SN 1200 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена изогнутым фронтальным стеклом, люминесцентной подсветкой и вместительной охлаждаемой камерой для хранения запаса товара. Экспозиционная и рабочая поверхности выполнены из нержавеющей стали, боковые панели - из ударопрочного ABS-пластика, теплоизоляция - из пенополиуретана.",
-    img: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1200.jpg",
-    img2: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1200.jpg",
-    price: 406537,
-    code: ""
-}, {
-    link: "cryspi_octava_SN_1500.html",
-    title: "Холодильная витрина CRYSPI Octava SN 1500",
-    desc: "Холодильная витрина Cryspi Octava SN 1500 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена изогнутым фронтальным стеклом, люминесцентной подсветкой и вместительной охлаждаемой камерой для хранения запаса товара. Экспозиционная и рабочая поверхности выполнены из нержавеющей стали, боковые панели - из ударопрочного ABS-пластика, теплоизоляция - из пенополиуретана.",
-    img: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1500.jpg",
-    img2: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1500.jpg",
-    price: 458393,
-    code: ""
-}, {
-    link: "cryspi_octava_SN_1800.html",
-    title: "Холодильная витрина CRYSPI Octava SN 1800",
-    desc: "Холодильная витрина Cryspi Octava SN 1800 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена изогнутым фронтальным стеклом, люминесцентной подсветкой и вместительной охлаждаемой камерой для хранения запаса товара. Экспозиционная и рабочая поверхности выполнены из нержавеющей стали, боковые панели - из ударопрочного ABS-пластика, теплоизоляция - из пенополиуретана.",
-    img: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1800.jpg",
-    img2: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1800.jpg",
-    price: 509102,
-    code: ""
-}, {
-    link: "kp_gamma_1200.html",
-    title: "Холодильная витрина CRYSPI Gamma2 SN 1200",
-    desc: "Витрина универсальная CRYSPI Gamma-2 SN 1200 — современное холодильное оборудование с автоматической разморозкой и встроенным холодильным агрегатом. Работает с системой гравитационного охлаждения. В качестве хладагента выбран экологически безопасный R404А.",
-    img: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1200.jpg",
-    img2: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1200.jpg",
-    price: 468054,
-    code: ""
-}, {
-    link: "kp_gamma_1500.html",
-    title: "Холодильная витрина CRYSPI Gamma2 SN 1500",
-    desc: "Витрина универсальная CRYSPI Gamma-2 SN 1500 — современное холодильное оборудование с автоматической разморозкой и встроенным холодильным агрегатом. Работает с системой гравитационного охлаждения. В качестве хладагента выбран экологически безопасный R404А.",
-    img: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1500.jpg",
-    img2: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1500.jpg",
-    price: 524084,
-    code: ""
-}, {
-    link: "kp_gamma_1800.html",
-    title: "Холодильная витрина CRYSPI Gamma2 SN 1800",
-    desc: "Витрина универсальная CRYSPI Gamma-2 SN 1800 — современное холодильное оборудование с автоматической разморозкой и встроенным холодильным агрегатом. Работает с системой гравитационного охлаждения. В качестве хладагента выбран экологически безопасный R404А.",
-    img: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1800.jpg",
-    img2: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1800.jpg",
-    price: 597085,
-    code: ""
-}]
+        link: "gc95.html",
+        title: "Холодильная витрина GC95",
+        desc: "Серия напольных холодильных витрин CARBOMA GC95 это: - лаконичные формы с одной целью: максимальный акцент на продукты; - только энергосберегающие технологии (низкоэмиссионное стекло, LED-освещение в базовой комплектации)",
+        img: "/themes/images/products/vitrina/polus/list/77.jpg",
+        img2: "/themes/images/products/vitrina/polus/main/77.jpg",
+        price: 329794,
+        code: "1617"
+    }, {
+        link: "gc110.html",
+        title: "Холодильная витрина GC110",
+        desc: "Серия напольных холодильных витрин CARBOMA GC110 это: - лаконичные формы с одной целью: максимальный акцент на продукты; - конфигурация любой формы и соединение в линии; - только энергосберегающие технологии (низкоэмиссионное стекло, LED-освещение в базовой комплектации)",
+        img: "/themes/images/products/vitrina/polus/list/8.jpg",
+        img2: "/themes/images/products/vitrina/polus/main/8.jpg",
+        price: 349700,
+        code: "1639"
+    }, {
+        link: "carboma_close.html",
+        title: "Холодильная витрина Carboma закрытая",
+        desc: "Холодильная витрина Carboma закрытая отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
+        img: "/themes/images/products/vitrina/polus/list/9.png",
+        img2: "/themes/images/products/vitrina/polus/main/9.png",
+        price: 378214,
+        code: "1618"
+    }, {
+        link: "carboma_open.html",
+        title: "Холодильная витрина Carboma открытая",
+        desc: "Холодильная витрина Carboma открытая отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
+        img: "/themes/images/products/vitrina/polus/main/99.jpg",
+        img2: "/themes/images/products/vitrina/polus/main/99.jpg",
+        price: 453534,
+        code: "1619"
+    }, {
+        link: "vitrina_polus.html",
+        title: "Холодильная витрина Полюс",
+        desc: "Холодильная витрина Полюс отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
+        img: "/themes/images/products/vitrina/polus/list/10.png",
+        img2: "/themes/images/products/vitrina/polus/main/10.png",
+        price: 319572,
+        code: "1620"
+    }, {
+        link: "vitrina_eko_maxi.html",
+        title: "Холодильная витрина Эко Maxi",
+        desc: "Холодильная витрина Эко Maxi отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
+        img: "/themes/images/products/vitrina/polus/list/20.jpg",
+        img2: "/themes/images/products/vitrina/polus/main/20.jpg",
+        price: 149093,
+        code: "1621"
+    }, {
+        link: "vitrina_eko_mini.html",
+        title: "Холодильная витрина Эко Mini",
+        desc: "Холодильная витрина Эко Mini отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.",
+        img: "/themes/images/products/vitrina/polus/list/30.jpg",
+        img2: "/themes/images/products/vitrina/polus/main/30.jpg",
+        price: 92093,
+        code: "1622"
+    }, {
+        link: "ilet_bhx.html",
+        title: "Холодильная витрина ILET BXH",
+        desc: "Холодильная витрина ILET BXH предназначены для презентации и продажи мяса, птицы, колбасно-молочных и гастрономических изделия в магазинах с небольшими торговыми площадями и узкими дверными проемами.",
+        img: "/themes/images/products/vitrina/mxm/list/5.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/5.jpg",
+        price: 482680,
+        code: "1623"
+    }, {
+        link: "ilet_bhc.html",
+        title: "Холодильная витрина ILET BXC",
+        desc: "Холодильная витрина ILET BXC для продовольственных магазинов любого формата, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, пенополиуретан BASF, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/6.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/6.jpg",
+        price: 380260,
+        code: "1624"
+    }, {
+        link: "nova_bxh.html",
+        title: "Холодильная витрина Nova ВХН",
+        desc: "Холодильная витрина Nova ВХН эконом-класса для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, электродвигатели EBM PAPST, пенополиуретан BASF, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/7.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/7.jpg",
+        price: 335116,
+        code: "1625"
+    }, {
+        link: "tair_bxh.html",
+        title: "Холодильная витрина Tair ВХН",
+        desc: "Холодильная витрина Tair ВХН для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, электродвигатели EBM PAPST, пенополиуретан BASF, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/main/8.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/8.jpg",
+        price: 389060,
+        code: "1626"
+    }, {
+        link: "ilet_bxcd.html",
+        title: "Холодильная витрина ILET BXCD",
+        desc: "Холодильная витрина ILET BXCD для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, электродвигатели EBM PAPST, пенополиуретан BASF, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/9.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/9.jpg",
+        price: 462837,
+        code: "1627"
+    }, {
+        link: "ilet_bxch.html",
+        title: "Холодильная витрина ILET BXCH",
+        desc: "Холодильная витрина ILET BXCH для продовольственных магазинов любого формата, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, пенополиуретан BASF, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/10.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/10.jpg",
+        price: 212990,
+        code: "1628"
+    }, {
+        link: "ilet_bxcho.html",
+        title: "Холодильная витрина ILET BXCO",
+        desc: "Холодильная витрина ILET BXCO для продовольственных магазинов любого формата, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, Carel или Danfoss, пенополиуретан BASF, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/1000.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/1000.jpg",
+        price: 368181,
+        code: "1629"
+    }, {
+        link: "bxc_ub.html",
+        title: "Холодильная витрина ВХС-УВ Илеть",
+        desc: "Холодильная витрина ВХС-УВ: угол внутренний ВХС-УВ Илеть и угол наружный ВХС-УН Илеть (внутренний и наружный угловые модули 90°), предназначены для хранения, демонстрации и продажи предварительно охлаждённых пищевых продуктов в продовольственных магазинах любого формата, кафе, других предприятиях общественного питания..",
+        img: "/themes/images/products/vitrina/mxm/list/11.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/11.jpg",
+        price: 592920,
+        code: "1630"
+    }, {
+        link: "bxc_uh.html",
+        title: "Холодильная витрина ВХС-УН Илеть",
+        desc: "Холодильная витрина ВХС-УН: угол внутренний ВХС-УВ Илеть и угол наружный ВХС-УН Илеть (внутренний и наружный угловые модули 90°), предназначены для хранения, демонстрации и продажи предварительно охлаждённых пищевых продуктов в продовольственных магазинах любого формата, кафе, других предприятиях общественного питания.",
+        img: "/themes/images/products/vitrina/mxm/list/13.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/13.jpg",
+        price: 564675,
+        code: "1631"
+    }, {
+        link: "bxco_uh.html",
+        title: "Холодильная витрина ВХСo-УН Илеть",
+        desc: "Холодильная витрина ВХСo-УH для продовольственных магазинов любого формата, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss, контроллер Evco, Carel или Danfoss, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/12.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/12.jpg",
+        price: 531405,
+        code: "1632"
+    }, {
+        link: "tair_bxc_uh.html",
+        title: "Холодильная витрина Tair ВХС-УН",
+        desc: "Холодильная витрина Tair ВХС-УН (наружный и внутренний угловые модули 90°), обслуживаемые продавцом, предназначены для демонстрации и продажи предварительно охлаждённых пищевых продуктов и позволяют составлять из витрин марки Таир линии специальной конфигурации с поворотами.",
+        img: "/themes/images/products/vitrina/mxm/list/14.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/14.jpg",
+        price: 569655,
+        code: "1633"
+    }, {
+        link: "tair_bxc_ub.html",
+        title: "Холодильная витрина Tair ВХС-УВ",
+        desc: "Холодильная витрина Tair ВХС-УВ (наружный и внутренний угловые модули 90°), обслуживаемые продавцом, предназначены для демонстрации и продажи предварительно охлаждённых пищевых продуктов и позволяют составлять из витрин марки Таир линии специальной конфигурации с поворотами.",
+        img: "/themes/images/products/vitrina/mxm/list/15.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/15.jpg",
+        price: 573441,
+        code: "1634"
+    }, {
+        link: "parabel_bxc.html",
+        title: "Холодильная витрина Parabel ВХС",
+        desc: "Холодильная витрина Parabel ВХС c механизмом подъема стекла для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/16.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/16.jpg",
+        price: 347870,
+        code: "1635"
+    }, {
+        link: "parabel_bxc_ub.html",
+        title: "Холодильная витрина Parabel ВХС-УВ",
+        desc: "Холодильная витрина Parabel ВХС-УВ c механизмом подъема стекла для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/17.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/17.jpg",
+        price: 737014,
+        code: "1636"
+    }, {
+        link: "parabel_bxc_uh.html",
+        title: "Холодильная витрина Parabel ВХС-УН",
+        desc: "Холодильная витрина Parabel ВХС-УН c механизмом подъема стекла для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/18.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/18.jpg",
+        price: 719778,
+        code: "1637"
+    }, {
+        link: "parabel_bxco.html",
+        title: "Холодильная витрина Parabel ВХСo",
+        desc: "Холодильная витрина Parabel ВХСo c механизмом подъема стекла для магазинов небольшой и средней площади, для продажи гастрономии, молочных продуктов, пресервов, кондитерских и замороженных продуктов. Используются импортные комплектущие: компрессор Danfoss или Tecumseh, контроллер Evco, пищевая нержавеющая сталь.",
+        img: "/themes/images/products/vitrina/mxm/list/19.jpg",
+        img2: "/themes/images/products/vitrina/mxm/main/19.jpg",
+        price: 299344,
+        code: "1638"
+    }, {
+        link: "cryspi_octava_SN_1200.html",
+        title: "Холодильная витрина CRYSPI Octava SN 1200",
+        desc: "Холодильная витрина Cryspi Octava SN 1200 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена изогнутым фронтальным стеклом, люминесцентной подсветкой и вместительной охлаждаемой камерой для хранения запаса товара. Экспозиционная и рабочая поверхности выполнены из нержавеющей стали, боковые панели - из ударопрочного ABS-пластика, теплоизоляция - из пенополиуретана.",
+        img: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1200.jpg",
+        img2: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1200.jpg",
+        price: 406537,
+        code: "1640"
+    }, {
+        link: "cryspi_octava_SN_1500.html",
+        title: "Холодильная витрина CRYSPI Octava SN 1500",
+        desc: "Холодильная витрина Cryspi Octava SN 1500 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена изогнутым фронтальным стеклом, люминесцентной подсветкой и вместительной охлаждаемой камерой для хранения запаса товара. Экспозиционная и рабочая поверхности выполнены из нержавеющей стали, боковые панели - из ударопрочного ABS-пластика, теплоизоляция - из пенополиуретана.",
+        img: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1500.jpg",
+        img2: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1500.jpg",
+        price: 458393,
+        code: "1641"
+    }, {
+        link: "cryspi_octava_SN_1800.html",
+        title: "Холодильная витрина CRYSPI Octava SN 1800",
+        desc: "Холодильная витрина Cryspi Octava SN 1800 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена изогнутым фронтальным стеклом, люминесцентной подсветкой и вместительной охлаждаемой камерой для хранения запаса товара. Экспозиционная и рабочая поверхности выполнены из нержавеющей стали, боковые панели - из ударопрочного ABS-пластика, теплоизоляция - из пенополиуретана.",
+        img: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1800.jpg",
+        img2: "/themes/images/products/vitrina/octava/CRYSPI_Octava_SN_1800.jpg",
+        price: 509102,
+        code: "1642"
+    }, {
+        link: "kp_gamma_1200.html",
+        title: "Холодильная витрина CRYSPI Gamma2 SN 1200",
+        desc: "Витрина универсальная CRYSPI Gamma-2 SN 1200 — современное холодильное оборудование с автоматической разморозкой и встроенным холодильным агрегатом. Работает с системой гравитационного охлаждения. В качестве хладагента выбран экологически безопасный R404А.",
+        img: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1200.jpg",
+        img2: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1200.jpg",
+        price: 468054,
+        code: "1643"
+    }, {
+        link: "kp_gamma_1500.html",
+        title: "Холодильная витрина CRYSPI Gamma2 SN 1500",
+        desc: "Витрина универсальная CRYSPI Gamma-2 SN 1500 — современное холодильное оборудование с автоматической разморозкой и встроенным холодильным агрегатом. Работает с системой гравитационного охлаждения. В качестве хладагента выбран экологически безопасный R404А.",
+        img: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1500.jpg",
+        img2: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1500.jpg",
+        price: 524084,
+        code: "1644"
+    }, {
+        link: "kp_gamma_1800.html",
+        title: "Холодильная витрина CRYSPI Gamma2 SN 1800",
+        desc: "Витрина универсальная CRYSPI Gamma-2 SN 1800 — современное холодильное оборудование с автоматической разморозкой и встроенным холодильным агрегатом. Работает с системой гравитационного охлаждения. В качестве хладагента выбран экологически безопасный R404А.",
+        img: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1800.jpg",
+        img2: "/themes/images/products/vitrina/gamma/CRYSPI_Gamma2_SN_1800.jpg",
+        price: 597085,
+        code: "1645"
+    }, {
+        link: "italfrigo_toscana_wl_1250.html",
+        title: "Italfrigo Toscana WL ВПС 1250 Д",
+        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+        price: 844731,
+        code: "1700"
+    }, {
+        link: "italfrigo_toscana_wl_1875.html",
+        title: "Italfrigo Toscana WL ВПС 1875 Д",
+        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+        price: 1113023,
+        code: "1701"
+    }, {
+        link: "italfrigo_toscana_wl_2500.html",
+        title: "Italfrigo Toscana WL ВПС 2500 Д",
+        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+        price: 1336411,
+        code: "1702"
+    }, {
+        link: "italfrigo_toscana_wl_3750.html",
+        title: "Italfrigo Toscana WL ВПС 3750 Д",
+        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+        price: 1795733,
+        code: "1703"
+    },
+    // _______________________________________________________________
+    {
+        link: "italfrigo_toscana_wl_self_1250.html",
+        title: "Italfrigo Toscana WL Self ВПС 1250 Д",
+        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+        price: 824792,
+        code: "1704"
+    }, {
+        link: "italfrigo_toscana_wl_self_1875.html",
+        title: "Italfrigo Toscana WL Self ВПС 1875 Д",
+        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+        price: 1086163,
+        code: "1705"
+    }, {
+        link: "italfrigo_toscana_wl_self_2500.html",
+        title: "Italfrigo Toscana WL Self ВПС 2500 Д",
+        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+        price: 1304045,
+        code: "1706"
+    }, {
+        link: "italfrigo_toscana_wl_self_3750.html",
+        title: "Italfrigo Toscana WL Self ВПС 3750 Д",
+        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+        price: 1751201,
+        code: "1707"
+    }
+]
 
 
 // ______________________________Пристенные холодильные витрины________________________________________
@@ -806,6 +873,86 @@ const pristen = [{
     img2: "/themes/images/products/pristen/gorka/gorka_snezh_2500x830.jpg",
     price: 1283684,
     code: ""
+}, {
+    link: "italfrigo_milan_s.html",
+    title: "Морозильный шкаф Italfrigo Milan S D3 2343",
+    desc: "Морозильный пристенный шкаф Italfrigo Milan S D3 2343 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+    img: "/themes/images/products/shkaf/crispi/1.1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/1.1.jpg",
+    price: 3061473,
+    code: "1800"
+}, {
+    link: "italfrigo_milan_L_1562.html",
+    title: "Морозильный шкаф Italfrigo Milan L D2 1562",
+    desc: "Морозильный пристенный шкаф Italfrigo Milan L D2 1562 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+    img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    price: 2615606,
+    code: "1801"
+}, {
+    link: "italfrigo_milan_L_2343.html",
+    title: "Морозильный шкаф Italfrigo Milan L D3 2343",
+    desc: "Морозильный пристенный шкаф Italfrigo Milan L D3 2343 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+    img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    price: 3423216,
+    code: "1802"
+}, {
+    link: "italfrigo_milan_L_3123.html",
+    title: "Морозильный шкаф Italfrigo Milan L D4 3123",
+    desc: "Морозильный пристенный шкаф Italfrigo Milan L D4 3123 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+    img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    price: 4784861,
+    code: "1803"
+}, {
+    link: "italfrigo_milan_L_3905.html",
+    title: "Морозильный шкаф Italfrigo Milan L D5 3905",
+    desc: "Морозильный пристенный шкаф Italfrigo Milan L D5 3905 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+    img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    price: 5762440,
+    code: "1804"
+}, {
+    link: "italfrigo_lazio_s9_1250.html",
+    title: "Пристенная витрина Italfrigo Lazio S9 1250 Д",
+    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    price: 889203,
+    code: "1805"
+}, {
+    link: "italfrigo_lazio_s9_1875.html",
+    title: "Пристенная витрина Italfrigo Lazio S9 1875 Д",
+    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    price: 1122457,
+    code: "1806"
+}, {
+    link: "italfrigo_lazio_s9_2500.html",
+    title: "Пристенная витрина Italfrigo Lazio S9 2500 Д",
+    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    price: 1327970,
+    code: "1807"
+}, {
+    link: "italfrigo_lazio_s9_3750.html",
+    title: "Пристенная витрина Italfrigo Lazio S9 3750 Д",
+    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    price: 1794475,
+    code: "1808"
+}, {
+    link: "italfrigo_lazio_s9_1875_torec.html",
+    title: "Пристенная витрина Italfrigo Lazio S9 1875 Д торец",
+    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+    price: 1327885,
+    code: "1809"
 }]
 
 
@@ -1520,7 +1667,6 @@ priceSort.addEventListener("click", function(e) {
     }
 });
 // _______________________________________
-
 var formatter = function(priceSum) {
     let mn = 0;
     let price = priceSum.toString()
@@ -1819,7 +1965,7 @@ function displayList(array) {
                                         </div>
                                     </a>
                                     <button id="fly" class="fly viewList_product_card add_item btn btn-large btn-primary" data-id="${a.code}" data-title="<a href='${a.link}'>${a.title}</a>" data-price="${a.price}" data-quantity="1" data-img="${a.img}">
-                                        <img class="basket" src="https://pngimage.net/wp-content/uploads/2018/06/white-cart-icon-png-7.png">&nbsp; В корзину
+                                        <img class="basket" src="/themes/images/cart-icon-png-white-4.png">&nbsp; В корзину
                                     </button>
                                 </div>
                             </div>
