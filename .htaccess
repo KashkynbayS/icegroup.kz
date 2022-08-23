@@ -38,3 +38,18 @@ ErrorDocument 404 /error404.html
 # RewriteCond %{REQUEST_URI} !\..+$
 # RewriteCond %{REQUEST_URI} !/$
 # RewriteRule ^(.*)$ https://icegroup.kz/$1/ [L,R=301]
+
+
+
+
+## Go Daddy servers need the Options -MultiViews code below 
+Options -MultiViews 
+RewriteEngine On 
+RewriteBase / 
+# Hide .html extension 
+## External Redirect 
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC] 
+RewriteRule ^ %1 [R,NC] 
+## ## Internal Redirect 
+RewriteCond %{REQUEST_FILENAME}.html -f 
+RewriteRule ^ %{REQUEST_URI}.html 

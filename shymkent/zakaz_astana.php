@@ -45,6 +45,22 @@ ob_start();
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/87239673" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
+<!-- Google tag (gtag.js) Google Analitics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S8D09WFBEW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-S8D09WFBEW');
+    </script>
+    <!-- Google tag (gtag.js) Google Analitics -->
+<script defer src="/themes/js/jquery.js" type="text/javascript"></script>
+    <script defer src="/themes/js/bootstrap.min.js" type="text/javascript"></script>
 </head>
 <body>
 <div id="header"><div style="text-align:right; "><div class="container"><img src="/themes/images/bis.png" ></div></div>
@@ -144,11 +160,11 @@ ob_start();
 	</div><!-- Container End -->
 	</div>
 <!-- Placed at the end of the document so the pages load faster ============================================= -->
-	<script src="/themes/js/jquery.js" type="text/javascript"></script>
-	<script src="/themes/js/bootstrap.min.js" type="text/javascript"></script>
+	
+	
 	<script src="/themes/js/google-code-prettify/prettify.js"></script>
 	
-	<script src="/themes/js/bootshop.js"></script>
+	<script defer src="/themes/js/bootshop.js"></script>
     <script src="/themes/js/jquery.lightbox-0.5.js"></script>
 	
 	<!-- Themes switcher section 
@@ -206,7 +222,7 @@ ob_start();
 	</div>
 </div>============================================================================================= -->
 <span id="themesBtn"></span>
-<script src="/themes/js/smart-search.js"></script> 
+<script defer src="/themes/js/smart-search.js"></script> 
 <link href="/themes/css/jqcart.css" rel="stylesheet" />
     <script src="/themes/js/jqcart.min.js"></script>
     <script src="js_main/main.js"></script>
