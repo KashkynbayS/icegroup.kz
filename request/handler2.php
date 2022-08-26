@@ -96,7 +96,7 @@ $body = '
 
 <!-- Google tag (gtag.js) Google Analitics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-S8D09WFBEW"></script>
-    <script>
+    <script defer>
         window.dataLayer = window.dataLayer || [];
 
         function gtag() {
@@ -107,7 +107,7 @@ $body = '
         gtag('config', 'G-S8D09WFBEW');
     </script>
     <!-- Google tag (gtag.js) Google Analitics -->
-<script defer src="/themes/js/jquery.js" type="text/javascript"></script>
+<script src="/themes/js/jquery.js" type="text/javascript"></script>
     <script defer src="/themes/js/bootstrap.min.js" type="text/javascript"></script>
 </head>
 <body>

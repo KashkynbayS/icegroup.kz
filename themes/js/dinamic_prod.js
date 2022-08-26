@@ -580,7 +580,7 @@ const holod_vitrina = [{
     }, {
         link: "italfrigo_toscana_wl_1250.html",
         title: "Italfrigo Toscana WL ВПС 1250 Д",
-        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 1250 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         price: 844731,
@@ -588,7 +588,7 @@ const holod_vitrina = [{
     }, {
         link: "italfrigo_toscana_wl_1875.html",
         title: "Italfrigo Toscana WL ВПС 1875 Д",
-        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 1875 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         price: 1113023,
@@ -596,7 +596,7 @@ const holod_vitrina = [{
     }, {
         link: "italfrigo_toscana_wl_2500.html",
         title: "Italfrigo Toscana WL ВПС 2500 Д",
-        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 2500 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         price: 1336411,
@@ -604,7 +604,7 @@ const holod_vitrina = [{
     }, {
         link: "italfrigo_toscana_wl_3750.html",
         title: "Italfrigo Toscana WL ВПС 3750 Д",
-        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 3750 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         price: 1795733,
@@ -614,7 +614,7 @@ const holod_vitrina = [{
     {
         link: "italfrigo_toscana_wl_self_1250.html",
         title: "Italfrigo Toscana WL Self ВПС 1250 Д",
-        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 1250 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         price: 824792,
@@ -622,7 +622,7 @@ const holod_vitrina = [{
     }, {
         link: "italfrigo_toscana_wl_self_1875.html",
         title: "Italfrigo Toscana WL Self ВПС 1875 Д",
-        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 1875 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         price: 1086163,
@@ -630,7 +630,7 @@ const holod_vitrina = [{
     }, {
         link: "italfrigo_toscana_wl_self_2500.html",
         title: "Italfrigo Toscana WL Self ВПС 2500 Д",
-        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 2500 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         price: 1304045,
@@ -638,11 +638,77 @@ const holod_vitrina = [{
     }, {
         link: "italfrigo_toscana_wl_self_3750.html",
         title: "Italfrigo Toscana WL Self ВПС 3750 Д",
-        desc: "Витрина открытого типа предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 3750 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         price: 1751201,
         code: "1707"
+    }, {
+        link: "italfrigo_toscana_q.html",
+        title: "Italfrigo Toscana Quadro",
+        desc: "Витрина открытого типа Italfrigo Toscana Quadro (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_q_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_q_1.jpg",
+        price: 1020941,
+        code: "1708"
+    }, {
+        link: "italfrigo_toscana_q_self.html",
+        title: "Italfrigo Toscana Quadro Self",
+        desc: "Витрина открытого типа Italfrigo Toscana Quadro Self (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_q_self_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_q_self_1.jpg",
+        price: 858469,
+        code: "1709"
+    }, {
+        link: "italfrigo_toscana_q_bm.html",
+        title: "Italfrigo Toscana Quadro BM (Тепловая)",
+        desc: "Витрина открытого типа Italfrigo Toscana Quadro BM (Тепловая) (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_q_bm_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_q_bm_1.jpg",
+        price: 1839697,
+        code: "1710"
+    },
+    // _______________________________________________________________
+    {
+        link: "italfrigo_veneto_q.html",
+        title: "Italfrigo Veneto Quadro",
+        desc: "Витрина универсальная Italfrigo Veneto Quadro ВПС (выносной агрегат) — предназначена для оснащения магазинов и супермаркетов среднего и крупного форматов. Отличительной особенностью данной модели является полностью прозрачное остекление за счет прозрачных стоек из оргстекла. Глубина выкладки 960 мм позволяет разместить широкий ассортимент продукции.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_q_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_q_1.jpg",
+        price: 1152217,
+        code: "1711"
+    }, {
+        link: "italfrigo_veneto_q_self.html",
+        title: "Italfrigo Veneto Quadro Self",
+        desc: "Витрина универсальная Italfrigo Veneto Quadro Self ВПС (выносной агрегат) — предназначена для оснащения магазинов и супермаркетов среднего и крупного форматов. Отличительной особенностью данной модели является полностью прозрачное остекление за счет прозрачных стоек из оргстекла. Глубина выкладки 960 мм позволяет разместить широкий ассортимент продукции.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_q_self_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_q_self_1.jpg",
+        price: 986244,
+        code: "1712"
+    }, {
+        link: "italfrigo_veneto_q_bm.html",
+        title: "Italfrigo Veneto Quadro BM",
+        desc: "Витрина универсальная Italfrigo Veneto Quadro BM (выносной агрегат) — предназначена для оснащения магазинов и супермаркетов среднего и крупного форматов. Отличительной особенностью данной модели является полностью прозрачное остекление за счет прозрачных стоек из оргстекла. Глубина выкладки 960 мм позволяет разместить широкий ассортимент продукции.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_q_bm_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_q_bm_1.jpg",
+        price: 2151570,
+        code: "1713"
+    }, {
+        link: "italfrigo_veneto_crystal.html",
+        title: "Italfrigo Veneto Crystal",
+        desc: "Витрина универсальная Italfrigo Veneto Crystal (выносной агрегат) — предназначена для оснащения магазинов и супермаркетов среднего и крупного форматов. Отличительной особенностью данной модели является полностью прозрачное остекление за счет прозрачных стоек из оргстекла. Глубина выкладки 960 мм позволяет разместить широкий ассортимент продукции.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_crystal_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_crystal_1.jpg",
+        price: 1152223,
+        code: "1714"
+    }, {
+        link: "italfrigo_veneto_crystal_self.html",
+        title: "Italfrigo Veneto Crystal Self",
+        desc: "Витрина универсальная Italfrigo Veneto Crystal Self (выносной агрегат) — предназначена для оснащения магазинов и супермаркетов среднего и крупного форматов. Отличительной особенностью данной модели является полностью прозрачное остекление за счет прозрачных стоек из оргстекла. Глубина выкладки 960 мм позволяет разместить широкий ассортимент продукции.",
+        img: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_crystal_self_1.jpg",
+        img2: "/themes/images/products/vitrina/cryspi/italfrigo_veneto_crystal_self_1.jpg",
+        price: 986244,
+        code: "1715"
     }
 ]
 
@@ -650,310 +716,385 @@ const holod_vitrina = [{
 // ______________________________Пристенные холодильные витрины________________________________________
 
 const pristen = [{
-    link: "carboma_cuba.html",
-    title: "Пристенная холодильная витрина Carboma Cuba",
-    desc: "Холодильная витрина Carboma Cuba отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.Пристенная холодильная витрина CARBOMA CUBA позволяют эффективно использовать торговое пространство благодаря компактным внешним размерам и эргономичному кубическому дизайну.",
-    img: "/themes/images/products/pristen/main/17.jpg",
-    img2: "/themes/images/products/pristen/main/17.jpg",
-    price: 618700,
-    code: "1717"
-}, {
-    link: "carboma_tokyo.html",
-    title: "Пристенная холодильная витрина Carboma Tokyo",
-    desc: "Пристенная холодильная витрина Carboma Tokyo - идеальное предложение для магазинов любого формата. Благодаря своим небольшим размерам при увеличенной выкладке товара, может быть использована для промо-продаж.",
-    img: "/themes/images/products/pristen/main/18.jpg",
-    img2: "/themes/images/products/pristen/main/18.jpg",
-    price: 777410,
-    code: "1718"
-}, {
-    link: "carboma_britany.html",
-    title: "Пристенная холодильная витрина Carboma Britany",
-    desc: "Пристенная холодильная витрина Carboma Britany - идеальное предложение для магазинов любого формата, а также для точек общественного питания. Обеспечит активные продажи как в пристенном, так и в островном размещении, привлекая покупателей современным дизайном, оптимальным мерчандайзингом при небольших габаритных размерах.",
-    img: "/themes/images/products/pristen/main/19.jpg",
-    img2: "/themes/images/products/pristen/main/19.jpg",
-    price: 480434,
-    code: "1719"
-}, {
-    link: "carboma_crete.html",
-    title: "Пристенная холодильная витрина Carboma Crete",
-    desc: "Широкий модельный ряд пристенных холодильных витрин CARBOMA CRETE отличается повышенной обзорностью продуктов за счет панорамных боковин и увеличенной площадью выкладки.",
-    img: "/themes/images/products/pristen/main/20.jpg",
-    img2: "/themes/images/products/pristen/main/20.jpg",
-    price: 266019,
-    code: "1720"
-}, {
-    link: "carboma_provance.html",
-    title: "Пристенная холодильная витрина Carboma Provance",
-    desc: "Пристенная холодильная витрина Carboma Provance предназначены для торговых залов малого и среднего формата. Сочетают в себе надежность, эргономичность.",
-    img: "/themes/images/products/pristen/main/21.jpg",
-    img2: "/themes/images/products/pristen/main/21.jpg",
-    price: 233079,
-    code: "1721"
-}, {
-    link: "carboma_polus.html",
-    title: "Пристенная холодильная витрина Carboma Polus",
-    desc: "Увеличенная площадь выкладки в сочетании с Пристенная холодильная витрина ПОЛЮС. Высокая функциональность и точное соблюдение температурного режима обеспечивают надежную работу стеллажа и гарантируют сохранение свежести продуктов.",
-    img: "/themes/images/products/pristen/main/22.jpg",
-    img2: "/themes/images/products/pristen/main/22.jpg",
-    price: 333196,
-    code: "1722"
-}, {
-    link: "florence.html",
-    title: "Пристенная холодильная витрина Florence",
-    desc: "Пристенная холодильная витрина Florence - эффективное решение для магазинов и супермаркетов небольшой площади. Она отличается энергоемкостью, удобна и проста в эксплуатации. Florence снабжена верхним освещением, емкостью для сбора талой воды с функцией выпаривания, высокоэффективным испарителем и четырьмя полками с возможностью установки под наклоном для удобства демонстрации содержимого покупателям.",
-    img: "/themes/images/products/pristen/main/1.jpg",
-    img2: "/themes/images/products/pristen/main/1.jpg",
-    price: 513810,
-    code: "1723"
-}, {
-    link: "varshava_bxc.html",
-    title: "Пристенная холодильная витрина Varshava 210",
-    desc: "Пристенная холодильная витрина Varshava 210: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
-    img: "/themes/images/products/pristen/main/2.jpg",
-    img2: "/themes/images/products/pristen/main/2.jpg",
-    price: 698780,
-    code: "1724"
-}, {
-    link: "varshava_bxc_fruit.html",
-    title: "Пристенная холодильная витрина Varshava 210 фруктовая",
-    desc: "Холодильная пристенная витрина Varshava фруктовая: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
-    img: "/themes/images/products/pristen/list/3.jpg",
-    img2: "/themes/images/products/pristen/main/3.jpg",
-    price: 618286,
-    code: "1725"
-}, {
-    link: "varshava_bxcp.html",
-    title: "Пристенная холодильная витрина Varshava 160",
-    desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°",
-    img: "/themes/images/products/pristen/main/5.jpg",
-    img2: "/themes/images/products/pristen/main/5.jpg",
-    price: 669224,
-    code: "1726"
-}, {
-    link: "varshava_bxc_1875.html",
-    title: "Пристенная холодильная витрина Varshava 220",
-    desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°",
-    img: "/themes/images/products/pristen/main/6.jpg",
-    img2: "/themes/images/products/pristen/main/6.jpg",
-    price: 698780,
-    code: "1727"
-}, {
-    link: "kupes.html",
-    title: "Пристенная холодильная витрина Kupes",
-    desc: "Холодильная пристенная витрина Kupes работает в среднетемпературном режиме, обеспечивая надежное хранение демонстрируемых продуктов в особых условиях. Длина полок достигает 2,5 м. Все поверхности витрины изготовлены из окрашенной стали в соответствии с санитарными нормами. Полиуретановая изоляция служит надежной защитой полезного объема от холодопотерь, повышая энергоэффективность.",
-    img: "/themes/images/products/pristen/main/7.jpg",
-    img2: "/themes/images/products/pristen/main/7.jpg",
-    price: 852896,
-    code: "1728"
-}, {
-    link: "nova_bxcp.html",
-    title: "Пристенная холодильная витрина Nova ВХСп",
-    desc: "Холодильная пристенная витрина Nova ВХСп работает в среднетемпературном режиме, обеспечивая надежное хранение демонстрируемых продуктов в особых условиях. Длина полок достигает 2,5 м. Все поверхности витрины изготовлены из окрашенной стали в соответствии с санитарными нормами. Полиуретановая изоляция служит надежной защитой полезного объема от холодопотерь, повышая энергоэффективность.",
-    img: "/themes/images/products/pristen/main/8.jpg",
-    img2: "/themes/images/products/pristen/main/8.jpg",
-    price: 262144,
-    code: "1729"
-}, {
-    link: "varshava_bxcp_1875.html",
-    title: "Пристенная холодильная витрина Varshava BXCп-1,875",
-    desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин серии «Varshava» имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
-    img: "/themes/images/products/pristen/main/9.jpg",
-    img2: "/themes/images/products/pristen/main/9.jpg",
-    price: 908269,
-    code: "1730"
-}, {
-    link: "kupes_bxcp.html",
-    title: "Пристенная холодильная витрина Kupes ВХСп",
-    desc: "Холодильная пристенная витрина Kupes работает в среднетемпературном режиме, обеспечивая надежное хранение демонстрируемых продуктов в особых условиях. Длина полок достигает 2,5 м. Все поверхности витрины изготовлены из окрашенной стали в соответствии с санитарными нормами.",
-    img: "/themes/images/products/pristen/main/10.jpg",
-    img2: "/themes/images/products/pristen/main/10.jpg",
-    price: 852896,
-    code: "1731"
-}, {
-    link: "varshava_bxcp_25.html",
-    title: "Пристенная холодильная витрина Varshava BXCп-2,5",
-    desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
-    img: "/themes/images/products/pristen/main/12.jpg",
-    img2: "/themes/images/products/pristen/main/12.jpg",
-    price: 1170225,
-    code: "1733"
-}, {
-    link: "varshava_torcevaya.html",
-    title: "Пристенная холодильная витрина Varshava торцевая",
-    desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин серии «Varshava» имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
-    img: "/themes/images/products/pristen/list/13.jpg",
-    img2: "/themes/images/products/pristen/main/13.jpg",
-    price: 1003393,
-    code: "1734"
-}, {
-    link: "varshava_bxcp_375.html",
-    title: "Пристенная холодильная витрина Varshava ВХСп-3,75",
-    desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин серии «Varshava» имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
-    img: "/themes/images/products/pristen/main/14.jpg",
-    img2: "/themes/images/products/pristen/main/14.jpg",
-    price: 1590097,
-    code: "1735"
-}, {
-    link: "varshava_bxcnp_375.html",
-    title: "Пристенная холодильная витрина Varshava BXCнп-3,75",
-    desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
-    img: "/themes/images/products/pristen/main/15.jpg",
-    img2: "/themes/images/products/pristen/main/15.jpg",
-    price: 689465,
-    code: "1736"
-}, {
-    link: "barcelona.html",
-    title: "Пристенная холодильная витрина Barcelona",
-    desc: "Пристенная холодильная витрина Barcelona - эффективное решение для магазинов и супермаркетов небольшой площади. Она отличается энергоемкостью, удобна и проста в эксплуатации.",
-    img: "/themes/images/products/pristen/main/16.jpg",
-    img2: "/themes/images/products/pristen/main/16.jpg",
-    price: 1638898,
-    code: "1737"
-}, {
-    link: "alt_new_s_1350.html",
-    title: "Пристенный холодильник ALT NEW S 1350",
-    desc: "Пристенный холодильник Cryspi ALT N S 1350 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена 4 полками и люминесцентной подсветкой. Полки выполнены из окрашенной оцинкованной стали.",
-    img: "/themes/images/products/pristen/main/23.jpg",
-    img2: "/themes/images/products/pristen/main/23.jpg",
-    price: 859144,
-    code: "1720"
-}, {
-    link: "alt_new_s_1950.html",
-    title: "Пристенный холодильник ALT NEW S 1950",
-    desc: "Пристенный холодильник Cryspi ALT N S 1950 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена 4 полками и люминесцентной подсветкой. Полки выполнены из окрашенной оцинкованной стали.",
-    img: "/themes/images/products/pristen/main/24.jpg",
-    img2: "/themes/images/products/pristen/main/24.jpg",
-    price: 1071348,
-    code: ""
-}, {
-    link: "gorka_snezh_garda_1250x710.html",
-    title: "Горка СНЕЖ GARDA (1250 x 710)",
-    desc: "Холодильная горка Снеж Garda 1250 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
-    img: "/themes/images/products/pristen/gorka/gorka_snezh_1250x710.jpg",
-    img2: "/themes/images/products/pristen/gorka/gorka_snezh_1250x710.jpg",
-    price: 787144,
-    code: ""
-}, {
-    link: "gorka_snezh_garda_1875x710.html",
-    title: "Горка СНЕЖ GARDA (1875 x 710)",
-    desc: "Холодильная горка Снеж Garda 1875 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
-    img: "/themes/images/products/pristen/gorka/gorka_snezh_1875x710.jpg",
-    img2: "/themes/images/products/pristen/gorka/gorka_snezh_1875x710.jpg",
-    price: 941474,
-    code: ""
-}, {
-    link: "gorka_snezh_garda_2500x710.html",
-    title: "Горка СНЕЖ GARDA (2500 x 710)",
-    desc: "Холодильная горка Снеж Garda 2500 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
-    img: "/themes/images/products/pristen/gorka/gorka_snezh_2500x710.jpg",
-    img2: "/themes/images/products/pristen/gorka/gorka_snezh_2500x710.jpg",
-    price: 1216584,
-    code: ""
-}, {
-    link: "gorka_snezh_garda_1250x830.html",
-    title: "Горка СНЕЖ GARDA (1250 x 830)",
-    desc: "Холодильная горка Снеж Garda 1250 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
-    img: "/themes/images/products/pristen/gorka/gorka_snezh_1250x830.jpg",
-    img2: "/themes/images/products/pristen/gorka/gorka_snezh_1250x830.jpg",
-    price: 807274,
-    code: ""
-}, {
-    link: "gorka_snezh_garda_1875x830.html",
-    title: "Горка СНЕЖ GARDA (1875 x 830)",
-    desc: "Холодильная горка Снеж Garda 1875 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
-    img: "/themes/images/products/pristen/gorka/gorka_snezh_1875x830.jpg",
-    img2: "/themes/images/products/pristen/gorka/gorka_snezh_1875x830.jpg",
-    price: 981734,
-    code: ""
-}, {
-    link: "gorka_snezh_garda_2500x830.html",
-    title: "Горка СНЕЖ GARDA (2500 x 830)",
-    desc: "Холодильная горка Снеж Garda 2500 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
-    img: "/themes/images/products/pristen/gorka/gorka_snezh_2500x830.jpg",
-    img2: "/themes/images/products/pristen/gorka/gorka_snezh_2500x830.jpg",
-    price: 1283684,
-    code: ""
-}, {
-    link: "italfrigo_milan_s.html",
-    title: "Морозильный шкаф Italfrigo Milan S D3 2343",
-    desc: "Морозильный пристенный шкаф Italfrigo Milan S D3 2343 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
-    img: "/themes/images/products/shkaf/crispi/1.1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/1.1.jpg",
-    price: 3061473,
-    code: "1800"
-}, {
-    link: "italfrigo_milan_L_1562.html",
-    title: "Морозильный шкаф Italfrigo Milan L D2 1562",
-    desc: "Морозильный пристенный шкаф Italfrigo Milan L D2 1562 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
-    img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-    price: 2615606,
-    code: "1801"
-}, {
-    link: "italfrigo_milan_L_2343.html",
-    title: "Морозильный шкаф Italfrigo Milan L D3 2343",
-    desc: "Морозильный пристенный шкаф Italfrigo Milan L D3 2343 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
-    img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-    price: 3423216,
-    code: "1802"
-}, {
-    link: "italfrigo_milan_L_3123.html",
-    title: "Морозильный шкаф Italfrigo Milan L D4 3123",
-    desc: "Морозильный пристенный шкаф Italfrigo Milan L D4 3123 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
-    img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-    price: 4784861,
-    code: "1803"
-}, {
-    link: "italfrigo_milan_L_3905.html",
-    title: "Морозильный шкаф Italfrigo Milan L D5 3905",
-    desc: "Морозильный пристенный шкаф Italfrigo Milan L D5 3905 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
-    img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-    price: 5762440,
-    code: "1804"
-}, {
-    link: "italfrigo_lazio_s9_1250.html",
-    title: "Пристенная витрина Italfrigo Lazio S9 1250 Д",
-    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
-    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    price: 889203,
-    code: "1805"
-}, {
-    link: "italfrigo_lazio_s9_1875.html",
-    title: "Пристенная витрина Italfrigo Lazio S9 1875 Д",
-    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
-    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    price: 1122457,
-    code: "1806"
-}, {
-    link: "italfrigo_lazio_s9_2500.html",
-    title: "Пристенная витрина Italfrigo Lazio S9 2500 Д",
-    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
-    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    price: 1327970,
-    code: "1807"
-}, {
-    link: "italfrigo_lazio_s9_3750.html",
-    title: "Пристенная витрина Italfrigo Lazio S9 3750 Д",
-    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
-    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    price: 1794475,
-    code: "1808"
-}, {
-    link: "italfrigo_lazio_s9_1875_torec.html",
-    title: "Пристенная витрина Italfrigo Lazio S9 1875 Д торец",
-    desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
-    img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
-    price: 1327885,
-    code: "1809"
-}]
+        link: "carboma_cuba.html",
+        title: "Пристенная холодильная витрина Carboma Cuba",
+        desc: "Холодильная витрина Carboma Cuba отличаются современным дизайном, оптимальными эргономическими показателями, эффективным уровнем энергопотребления и холодопроизводительности.Пристенная холодильная витрина CARBOMA CUBA позволяют эффективно использовать торговое пространство благодаря компактным внешним размерам и эргономичному кубическому дизайну.",
+        img: "/themes/images/products/pristen/main/17.jpg",
+        img2: "/themes/images/products/pristen/main/17.jpg",
+        price: 618700,
+        code: "1717"
+    }, {
+        link: "carboma_tokyo.html",
+        title: "Пристенная холодильная витрина Carboma Tokyo",
+        desc: "Пристенная холодильная витрина Carboma Tokyo - идеальное предложение для магазинов любого формата. Благодаря своим небольшим размерам при увеличенной выкладке товара, может быть использована для промо-продаж.",
+        img: "/themes/images/products/pristen/main/18.jpg",
+        img2: "/themes/images/products/pristen/main/18.jpg",
+        price: 777410,
+        code: "1718"
+    }, {
+        link: "carboma_britany.html",
+        title: "Пристенная холодильная витрина Carboma Britany",
+        desc: "Пристенная холодильная витрина Carboma Britany - идеальное предложение для магазинов любого формата, а также для точек общественного питания. Обеспечит активные продажи как в пристенном, так и в островном размещении, привлекая покупателей современным дизайном, оптимальным мерчандайзингом при небольших габаритных размерах.",
+        img: "/themes/images/products/pristen/main/19.jpg",
+        img2: "/themes/images/products/pristen/main/19.jpg",
+        price: 480434,
+        code: "1719"
+    }, {
+        link: "carboma_crete.html",
+        title: "Пристенная холодильная витрина Carboma Crete",
+        desc: "Широкий модельный ряд пристенных холодильных витрин CARBOMA CRETE отличается повышенной обзорностью продуктов за счет панорамных боковин и увеличенной площадью выкладки.",
+        img: "/themes/images/products/pristen/main/20.jpg",
+        img2: "/themes/images/products/pristen/main/20.jpg",
+        price: 266019,
+        code: "1720"
+    }, {
+        link: "carboma_provance.html",
+        title: "Пристенная холодильная витрина Carboma Provance",
+        desc: "Пристенная холодильная витрина Carboma Provance предназначены для торговых залов малого и среднего формата. Сочетают в себе надежность, эргономичность.",
+        img: "/themes/images/products/pristen/main/21.jpg",
+        img2: "/themes/images/products/pristen/main/21.jpg",
+        price: 233079,
+        code: "1721"
+    }, {
+        link: "carboma_polus.html",
+        title: "Пристенная холодильная витрина Carboma Polus",
+        desc: "Увеличенная площадь выкладки в сочетании с Пристенная холодильная витрина ПОЛЮС. Высокая функциональность и точное соблюдение температурного режима обеспечивают надежную работу стеллажа и гарантируют сохранение свежести продуктов.",
+        img: "/themes/images/products/pristen/main/22.jpg",
+        img2: "/themes/images/products/pristen/main/22.jpg",
+        price: 333196,
+        code: "1722"
+    }, {
+        link: "florence.html",
+        title: "Пристенная холодильная витрина Florence",
+        desc: "Пристенная холодильная витрина Florence - эффективное решение для магазинов и супермаркетов небольшой площади. Она отличается энергоемкостью, удобна и проста в эксплуатации. Florence снабжена верхним освещением, емкостью для сбора талой воды с функцией выпаривания, высокоэффективным испарителем и четырьмя полками с возможностью установки под наклоном для удобства демонстрации содержимого покупателям.",
+        img: "/themes/images/products/pristen/main/1.jpg",
+        img2: "/themes/images/products/pristen/main/1.jpg",
+        price: 513810,
+        code: "1723"
+    }, {
+        link: "varshava_bxc.html",
+        title: "Пристенная холодильная витрина Varshava 210",
+        desc: "Пристенная холодильная витрина Varshava 210: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
+        img: "/themes/images/products/pristen/main/2.jpg",
+        img2: "/themes/images/products/pristen/main/2.jpg",
+        price: 698780,
+        code: "1724"
+    }, {
+        link: "varshava_bxc_fruit.html",
+        title: "Пристенная холодильная витрина Varshava 210 фруктовая",
+        desc: "Холодильная пристенная витрина Varshava фруктовая: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
+        img: "/themes/images/products/pristen/list/3.jpg",
+        img2: "/themes/images/products/pristen/main/3.jpg",
+        price: 618286,
+        code: "1725"
+    }, {
+        link: "varshava_bxcp.html",
+        title: "Пристенная холодильная витрина Varshava 160",
+        desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°",
+        img: "/themes/images/products/pristen/main/5.jpg",
+        img2: "/themes/images/products/pristen/main/5.jpg",
+        price: 669224,
+        code: "1726"
+    }, {
+        link: "varshava_bxc_1875.html",
+        title: "Пристенная холодильная витрина Varshava 220",
+        desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°",
+        img: "/themes/images/products/pristen/main/6.jpg",
+        img2: "/themes/images/products/pristen/main/6.jpg",
+        price: 698780,
+        code: "1727"
+    }, {
+        link: "kupes.html",
+        title: "Пристенная холодильная витрина Kupes",
+        desc: "Холодильная пристенная витрина Kupes работает в среднетемпературном режиме, обеспечивая надежное хранение демонстрируемых продуктов в особых условиях. Длина полок достигает 2,5 м. Все поверхности витрины изготовлены из окрашенной стали в соответствии с санитарными нормами. Полиуретановая изоляция служит надежной защитой полезного объема от холодопотерь, повышая энергоэффективность.",
+        img: "/themes/images/products/pristen/main/7.jpg",
+        img2: "/themes/images/products/pristen/main/7.jpg",
+        price: 852896,
+        code: "1728"
+    }, {
+        link: "nova_bxcp.html",
+        title: "Пристенная холодильная витрина Nova ВХСп",
+        desc: "Холодильная пристенная витрина Nova ВХСп работает в среднетемпературном режиме, обеспечивая надежное хранение демонстрируемых продуктов в особых условиях. Длина полок достигает 2,5 м. Все поверхности витрины изготовлены из окрашенной стали в соответствии с санитарными нормами. Полиуретановая изоляция служит надежной защитой полезного объема от холодопотерь, повышая энергоэффективность.",
+        img: "/themes/images/products/pristen/main/8.jpg",
+        img2: "/themes/images/products/pristen/main/8.jpg",
+        price: 262144,
+        code: "1729"
+    }, {
+        link: "varshava_bxcp_1875.html",
+        title: "Пристенная холодильная витрина Varshava BXCп-1,875",
+        desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин серии «Varshava» имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
+        img: "/themes/images/products/pristen/main/9.jpg",
+        img2: "/themes/images/products/pristen/main/9.jpg",
+        price: 908269,
+        code: "1730"
+    }, {
+        link: "kupes_bxcp.html",
+        title: "Пристенная холодильная витрина Kupes ВХСп",
+        desc: "Холодильная пристенная витрина Kupes работает в среднетемпературном режиме, обеспечивая надежное хранение демонстрируемых продуктов в особых условиях. Длина полок достигает 2,5 м. Все поверхности витрины изготовлены из окрашенной стали в соответствии с санитарными нормами.",
+        img: "/themes/images/products/pristen/main/10.jpg",
+        img2: "/themes/images/products/pristen/main/10.jpg",
+        price: 852896,
+        code: "1731"
+    }, {
+        link: "varshava_bxcp_25.html",
+        title: "Пристенная холодильная витрина Varshava BXCп-2,5",
+        desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
+        img: "/themes/images/products/pristen/main/12.jpg",
+        img2: "/themes/images/products/pristen/main/12.jpg",
+        price: 1170225,
+        code: "1733"
+    }, {
+        link: "varshava_torcevaya.html",
+        title: "Пристенная холодильная витрина Varshava торцевая",
+        desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин серии «Varshava» имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
+        img: "/themes/images/products/pristen/list/13.jpg",
+        img2: "/themes/images/products/pristen/main/13.jpg",
+        price: 1003393,
+        code: "1734"
+    }, {
+        link: "varshava_bxcp_375.html",
+        title: "Пристенная холодильная витрина Varshava ВХСп-3,75",
+        desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин серии «Varshava» имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
+        img: "/themes/images/products/pristen/main/14.jpg",
+        img2: "/themes/images/products/pristen/main/14.jpg",
+        price: 1590097,
+        code: "1735"
+    }, {
+        link: "varshava_bxcnp_375.html",
+        title: "Пристенная холодильная витрина Varshava BXCнп-3,75",
+        desc: "Холодильная пристенная витрина Varshava: идеально подходит для демонстрации, кратковременного хранения и продажи продуктов питания в магазинах и точках продаж любого формата. Полки витрин имеют возможность регулировки угла наклона полки 0°, -10° и -20°.",
+        img: "/themes/images/products/pristen/main/15.jpg",
+        img2: "/themes/images/products/pristen/main/15.jpg",
+        price: 689465,
+        code: "1736"
+    }, {
+        link: "barcelona.html",
+        title: "Пристенная холодильная витрина Barcelona",
+        desc: "Пристенная холодильная витрина Barcelona - эффективное решение для магазинов и супермаркетов небольшой площади. Она отличается энергоемкостью, удобна и проста в эксплуатации.",
+        img: "/themes/images/products/pristen/main/16.jpg",
+        img2: "/themes/images/products/pristen/main/16.jpg",
+        price: 1638898,
+        code: "1737"
+    }, {
+        link: "alt_new_s_1350.html",
+        title: "Пристенный холодильник ALT NEW S 1350",
+        desc: "Пристенный холодильник Cryspi ALT N S 1350 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена 4 полками и люминесцентной подсветкой. Полки выполнены из окрашенной оцинкованной стали.",
+        img: "/themes/images/products/pristen/main/23.jpg",
+        img2: "/themes/images/products/pristen/main/23.jpg",
+        price: 859144,
+        code: "1720"
+    }, {
+        link: "alt_new_s_1950.html",
+        title: "Пристенный холодильник ALT NEW S 1950",
+        desc: "Пристенный холодильник Cryspi ALT N S 1950 предназначена для демонстрации, охлаждения и кратковременного хранения скоропортящихся продуктов на предприятиях торговли и общественного питания. Модель оснащена 4 полками и люминесцентной подсветкой. Полки выполнены из окрашенной оцинкованной стали.",
+        img: "/themes/images/products/pristen/main/24.jpg",
+        img2: "/themes/images/products/pristen/main/24.jpg",
+        price: 1071348,
+        code: ""
+    }, {
+        link: "gorka_snezh_garda_1250x710.html",
+        title: "Горка СНЕЖ GARDA (1250 x 710)",
+        desc: "Холодильная горка Снеж Garda 1250 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
+        img: "/themes/images/products/pristen/gorka/gorka_snezh_1250x710.jpg",
+        img2: "/themes/images/products/pristen/gorka/gorka_snezh_1250x710.jpg",
+        price: 787144,
+        code: ""
+    }, {
+        link: "gorka_snezh_garda_1875x710.html",
+        title: "Горка СНЕЖ GARDA (1875 x 710)",
+        desc: "Холодильная горка Снеж Garda 1875 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
+        img: "/themes/images/products/pristen/gorka/gorka_snezh_1875x710.jpg",
+        img2: "/themes/images/products/pristen/gorka/gorka_snezh_1875x710.jpg",
+        price: 941474,
+        code: ""
+    }, {
+        link: "gorka_snezh_garda_2500x710.html",
+        title: "Горка СНЕЖ GARDA (2500 x 710)",
+        desc: "Холодильная горка Снеж Garda 2500 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
+        img: "/themes/images/products/pristen/gorka/gorka_snezh_2500x710.jpg",
+        img2: "/themes/images/products/pristen/gorka/gorka_snezh_2500x710.jpg",
+        price: 1216584,
+        code: ""
+    }, {
+        link: "gorka_snezh_garda_1250x830.html",
+        title: "Горка СНЕЖ GARDA (1250 x 830)",
+        desc: "Холодильная горка Снеж Garda 1250 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
+        img: "/themes/images/products/pristen/gorka/gorka_snezh_1250x830.jpg",
+        img2: "/themes/images/products/pristen/gorka/gorka_snezh_1250x830.jpg",
+        price: 807274,
+        code: ""
+    }, {
+        link: "gorka_snezh_garda_1875x830.html",
+        title: "Горка СНЕЖ GARDA (1875 x 830)",
+        desc: "Холодильная горка Снеж Garda 1875 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
+        img: "/themes/images/products/pristen/gorka/gorka_snezh_1875x830.jpg",
+        img2: "/themes/images/products/pristen/gorka/gorka_snezh_1875x830.jpg",
+        price: 981734,
+        code: ""
+    }, {
+        link: "gorka_snezh_garda_2500x830.html",
+        title: "Горка СНЕЖ GARDA (2500 x 830)",
+        desc: "Холодильная горка Снеж Garda 2500 используется на предприятиях общественного питания и торговли для охлаждения, кратковременного хранения, демонстрации и продажи напитков, мяса, птицы, колбасных, молочных и гастрономических изделий. Модель оснащена 4 навесными полками с ограничителями и ночной шторкой.",
+        img: "/themes/images/products/pristen/gorka/gorka_snezh_2500x830.jpg",
+        img2: "/themes/images/products/pristen/gorka/gorka_snezh_2500x830.jpg",
+        price: 1283684,
+        code: ""
+    },
+    // _______________________________________
+    {
+        link: "italfrigo_milan_s.html",
+        title: "Морозильный шкаф Italfrigo Milan S D3 2343",
+        desc: "Морозильный пристенный шкаф Italfrigo Milan S D3 2343 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+        img: "/themes/images/products/shkaf/crispi/1.1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/1.1.jpg",
+        price: 3061473,
+        code: "1800"
+    }, {
+        link: "italfrigo_milan_L_1562.html",
+        title: "Морозильный шкаф Italfrigo Milan L D2 1562",
+        desc: "Морозильный пристенный шкаф Italfrigo Milan L D2 1562 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+        img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+        price: 2615606,
+        code: "1801"
+    }, {
+        link: "italfrigo_milan_L_2343.html",
+        title: "Морозильный шкаф Italfrigo Milan L D3 2343",
+        desc: "Морозильный пристенный шкаф Italfrigo Milan L D3 2343 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+        img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+        price: 3423216,
+        code: "1802"
+    }, {
+        link: "italfrigo_milan_L_3123.html",
+        title: "Морозильный шкаф Italfrigo Milan L D4 3123",
+        desc: "Морозильный пристенный шкаф Italfrigo Milan L D4 3123 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+        img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+        price: 4784861,
+        code: "1803"
+    }, {
+        link: "italfrigo_milan_L_3905.html",
+        title: "Морозильный шкаф Italfrigo Milan L D5 3905",
+        desc: "Морозильный пристенный шкаф Italfrigo Milan L D5 3905 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+        img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+        price: 5762440,
+        code: "1804"
+    }, {
+        link: "italfrigo_lazio_s9_1250.html",
+        title: "Пристенная витрина Italfrigo Lazio S9 1250 Д",
+        desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+        img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        price: 889203,
+        code: "1805"
+    }, {
+        link: "italfrigo_lazio_s9_1875.html",
+        title: "Пристенная витрина Italfrigo Lazio S9 1875 Д",
+        desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+        img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        price: 1122457,
+        code: "1806"
+    }, {
+        link: "italfrigo_lazio_s9_2500.html",
+        title: "Пристенная витрина Italfrigo Lazio S9 2500 Д",
+        desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+        img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        price: 1327970,
+        code: "1807"
+    }, {
+        link: "italfrigo_lazio_s9_3750.html",
+        title: "Пристенная витрина Italfrigo Lazio S9 3750 Д",
+        desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+        img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        price: 1794475,
+        code: "1808"
+    }, {
+        link: "italfrigo_lazio_s9_1875_torec.html",
+        title: "Пристенная витрина Italfrigo Lazio S9 1875 Д торец",
+        desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
+        img: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        img2: "/themes/images/products/shkaf/crispi/italfrigo_lazio_1.jpg",
+        price: 1327885,
+        code: "1809"
+    }, {
+        link: "italfrigo_rimini_l7.html",
+        title: "Пристенная витрина Italfrigo Rimini L7",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini L7 (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_1.jpg",
+        price: 1008706,
+        code: "1810"
+    }, {
+        link: "italfrigo_rimini_l9.html",
+        title: "Пристенная витрина Italfrigo Rimini L9",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini L9 (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_1.jpg",
+        price: 1008706,
+        code: "1811"
+    }, {
+        link: "italfrigo_rimini_h9.html",
+        title: "Пристенная витрина Italfrigo Rimini H9",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini H9 (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_1.jpg",
+        price: 1071231,
+        code: "1812"
+    }, {
+        link: "italfrigo_rimini_h10.html",
+        title: "Пристенная витрина Italfrigo Rimini H10",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini H10 (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_1.jpg",
+        price: 1144311,
+        code: "1813"
+    }, {
+        link: "italfrigo_rimini_l7_dg.html",
+        title: "Пристенная витрина Italfrigo Rimini L7 DG",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini L7 DG (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        price: 1031674,
+        code: "1814"
+    }, {
+        link: "italfrigo_rimini_h7_dg.html",
+        title: "Пристенная витрина Italfrigo Rimini H7 DG",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini H7 DG (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        price: 1041983,
+        code: "1815"
+    }, {
+        link: "italfrigo_rimini_l9_dg.html",
+        title: "Пристенная витрина Italfrigo Rimini L9 DG",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini L9 DG (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        price: 1149320,
+        code: "1816"
+    }, {
+        link: "italfrigo_rimini_h9_dg.html",
+        title: "Пристенная витрина Italfrigo Rimini H9 DG",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini H9 DG (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        price: 1169079,
+        code: "1817"
+    }, {
+        link: "italfrigo_rimini_h10_dg.html",
+        title: "Пристенная витрина Italfrigo Rimini H10 DG",
+        desc: "Холодильная пристенная витрина Italfrigo Rimini H10 DG (выносной агрегат) предназначена для демонстрации, охлаждения и кратковременного хранения молочных и гастрономических изделий на предприятиях общественного питания и торговли.",
+        img: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        img2: "/themes/images/products/pristen/cryspi/italfrigo_rimini_l7_DG_1.jpg",
+        price: 1190267,
+        code: "1818"
+    }
+]
 
 
 // _________________________________________Бонеты____________________________________________________
@@ -1556,43 +1697,43 @@ let pageName = window.location.href.split('/').pop().split('#')[0].split('?')[0]
 let current_object = {};
 
 switch (pageName) {
-    case "holod_steklo.html":
+    case "holod_steklo":
         current_object = holod_steklo
         break;
-    case "holod_steklo_2dver.html":
+    case "holod_steklo_2dver":
         current_object = holod_steklo_2dver
         break;
-    case "holod_closed.html":
+    case "holod_closed":
         current_object = holod_closed
         break;
-    case "holod_pharmacy.html":
+    case "holod_pharmacy":
         current_object = holod_pharmacy
         break;
-    case "holod_vitrina.html":
+    case "holod_vitrina":
         current_object = holod_vitrina
         break;
-    case "pristen_vitrina.html":
+    case "pristen_vitrina":
         current_object = pristen
         break;
-    case "boneta.html":
+    case "boneta":
         current_object = boneta
         break;
-    case "lar.html":
+    case "lar":
         current_object = lar
         break;
-    case "kondit.html":
+    case "kondit":
         current_object = kondit
         break;
-    case "nastol.html":
+    case "nastol":
         current_object = nastol
         break;
-    case "holod_stol.html":
+    case "holod_stol":
         current_object = holod_stol
         break;
-    case "holod_camera.html":
+    case "holod_camera":
         current_object = holod_camera
         break;
-    case "holod_ustanovka.html":
+    case "holod_ustanovka":
         current_object = holod_ustanovka
         break;
     default:
@@ -1782,43 +1923,43 @@ function displayBlock(array) {
 myTabBlock.addEventListener('click', function() {
 
     switch (pageName) {
-        case "holod_steklo.html":
+        case "holod_steklo":
             displayBlock(holod_steklo)
             break;
-        case "holod_steklo_2dver.html":
+        case "holod_steklo_2dver":
             displayBlock(holod_steklo_2dver)
             break;
-        case "holod_closed.html":
+        case "holod_closed":
             displayBlock(holod_closed)
             break;
-        case "holod_pharmacy.html":
+        case "holod_pharmacy":
             displayBlock(holod_pharmacy)
             break;
-        case "holod_vitrina.html":
+        case "holod_vitrina":
             displayBlock(holod_vitrina)
             break;
-        case "pristen_vitrina.html":
+        case "pristen_vitrina":
             displayBlock(pristen)
             break;
-        case "boneta.html":
+        case "boneta":
             displayBlock(boneta)
             break;
-        case "lar.html":
+        case "lar":
             displayBlock(lar)
             break;
-        case "kondit.html":
+        case "kondit":
             displayBlock(kondit)
             break;
-        case "nastol.html":
+        case "nastol":
             displayBlock(nastol)
             break;
-        case "holod_stol.html":
+        case "holod_stol":
             displayBlock(holod_stol)
             break;
-        case "holod_camera.html":
+        case "holod_camera":
             displayBlock(holod_camera)
             break;
-        case "holod_ustanovka.html":
+        case "holod_ustanovka":
             displayBlock(holod_ustanovka)
             break;
         default:
@@ -1864,43 +2005,43 @@ const mediaQuery3 = window.matchMedia('(max-width: 668px)')
 function card_position(e) {
 
     switch (pageName) {
-        case "holod_steklo.html":
+        case "holod_steklo":
             displayBlock(holod_steklo)
             break;
-        case "holod_steklo_2dver.html":
+        case "holod_steklo_2dver":
             displayBlock(holod_steklo_2dver)
             break;
-        case "holod_closed.html":
+        case "holod_closed":
             displayBlock(holod_closed)
             break;
-        case "holod_pharmacy.html":
+        case "holod_pharmacy":
             displayBlock(holod_pharmacy)
             break;
-        case "holod_vitrina.html":
+        case "holod_vitrina":
             displayBlock(holod_vitrina)
             break;
-        case "pristen_vitrina.html":
+        case "pristen_vitrina":
             displayBlock(pristen)
             break;
-        case "boneta.html":
+        case "boneta":
             displayBlock(boneta)
             break;
-        case "lar.html":
+        case "lar":
             displayBlock(lar)
             break;
-        case "kondit.html":
+        case "kondit":
             displayBlock(kondit)
             break;
-        case "nastol.html":
+        case "nastol":
             displayBlock(nastol)
             break;
-        case "holod_stol.html":
+        case "holod_stol":
             displayBlock(holod_stol)
             break;
-        case "holod_camera.html":
+        case "holod_camera":
             displayBlock(holod_camera)
             break;
-        case "holod_ustanovka.html":
+        case "holod_ustanovka":
             displayBlock(holod_ustanovka)
             break;
         default:
@@ -1996,43 +2137,43 @@ function displayList(array) {
 }
 
 switch (pageName) {
-    case "holod_steklo.html":
+    case "holod_steklo":
         displayList(holod_steklo)
         break;
-    case "holod_steklo_2dver.html":
+    case "holod_steklo_2dver":
         displayList(holod_steklo_2dver)
         break;
-    case "holod_closed.html":
+    case "holod_closed":
         displayList(holod_closed)
         break;
-    case "holod_pharmacy.html":
+    case "holod_pharmacy":
         displayList(holod_pharmacy)
         break;
-    case "holod_vitrina.html":
+    case "holod_vitrina":
         displayList(holod_vitrina)
         break;
-    case "pristen_vitrina.html":
+    case "pristen_vitrina":
         displayList(pristen)
         break;
-    case "boneta.html":
+    case "boneta":
         displayList(boneta)
         break;
-    case "lar.html":
+    case "lar":
         displayList(lar)
         break;
-    case "kondit.html":
+    case "kondit":
         displayList(kondit)
         break;
-    case "nastol.html":
+    case "nastol":
         displayList(nastol)
         break;
-    case "holod_stol.html":
+    case "holod_stol":
         displayList(holod_stol)
         break;
-    case "holod_camera.html":
+    case "holod_camera":
         displayList(holod_camera)
         break;
-    case "holod_ustanovka.html":
+    case "holod_ustanovka":
         displayList(holod_ustanovka)
         break;
     default:
@@ -2044,43 +2185,43 @@ switch (pageName) {
 myTabList.addEventListener('click', function() {
 
     switch (pageName) {
-        case "holod_steklo.html":
+        case "holod_steklo":
             displayList(holod_steklo)
             break;
-        case "holod_steklo_2dver.html":
+        case "holod_steklo_2dver":
             displayList(holod_steklo_2dver)
             break;
-        case "holod_closed.html":
+        case "holod_closed":
             displayList(holod_closed)
             break;
-        case "holod_pharmacy.html":
+        case "holod_pharmacy":
             displayList(holod_pharmacy)
             break;
-        case "holod_vitrina.html":
+        case "holod_vitrina":
             displayList(holod_vitrina)
             break;
-        case "pristen_vitrina.html":
+        case "pristen_vitrina":
             displayList(pristen)
             break;
-        case "boneta.html":
+        case "boneta":
             displayList(boneta)
             break;
-        case "lar.html":
+        case "lar":
             displayList(lar)
             break;
-        case "kondit.html":
+        case "kondit":
             displayList(kondit)
             break;
-        case "nastol.html":
+        case "nastol":
             displayList(nastol)
             break;
-        case "holod_stol.html":
+        case "holod_stol":
             displayList(holod_stol)
             break;
-        case "holod_camera.html":
+        case "holod_camera":
             displayList(holod_camera)
             break;
-        case "holod_ustanovka.html":
+        case "holod_ustanovka":
             displayList(holod_ustanovka)
             break;
         default:

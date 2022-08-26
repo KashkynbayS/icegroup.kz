@@ -48,7 +48,7 @@ ob_start();
 
 <!-- Google tag (gtag.js) Google Analitics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-S8D09WFBEW"></script>
-    <script>
+    <script defer>
         window.dataLayer = window.dataLayer || [];
 
         function gtag() {
@@ -59,7 +59,7 @@ ob_start();
         gtag('config', 'G-S8D09WFBEW');
     </script>
     <!-- Google tag (gtag.js) Google Analitics -->
-<script defer src="/themes/js/jquery.js" type="text/javascript"></script>
+<script src="/themes/js/jquery.js" type="text/javascript"></script>
     <script defer src="/themes/js/bootstrap.min.js" type="text/javascript"></script>
 </head>
 <body>
@@ -224,11 +224,11 @@ ob_start();
 <span id="themesBtn"></span>
 <script defer src="/themes/js/smart-search.js"></script> 
 <link href="/themes/css/jqcart.css" rel="stylesheet" />
-    <script src="/themes/js/jqcart.min.js"></script>
-<script src="js_main/main.js"></script>
+    <script defer src="/themes/js/jqcart.min.js"></script>
+<script defer src="js_main/main.js"></script>
 <script src="js_main/main.js"></script >
 <script src="/themes/js/jquery.maskedinput.min.js"></script>
-    <script>
+    <script defer>
         $('#phone').inputmask({
             mask: ['+7 999 999 99 99'],
             jitMasking: 3,

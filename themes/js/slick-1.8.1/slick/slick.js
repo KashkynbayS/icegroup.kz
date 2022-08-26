@@ -3073,3 +3073,22 @@ $('#office_info_img').slick({
     autoplaySpeed: 2000,
     cssEase: 'linear'
 });
+
+// ________________________________________
+
+
+$('.dop_complect').slick({
+    dots: true,
+    infinite: true,
+    slidesToShow: 3,
+    slidesToScroll: 3,
+    autoplay: true,
+    autoplaySpeed: 2500,
+    responsive: [{
+        breakpoint: 600,
+        settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2,
+        }
+    }]
+});
