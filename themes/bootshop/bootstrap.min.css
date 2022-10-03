@@ -12894,6 +12894,15 @@ ul.js-dropdown-list {
 
 /* ________________________________________________ */
 
+.product_colors {
+    display: flex;
+    justify-content: center;
+}
+
+.product_colors img {
+    width: 100%;
+}
+
 .product_size {
     display: flex;
     justify-content: center;

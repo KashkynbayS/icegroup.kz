@@ -578,72 +578,75 @@ const holod_vitrina = [{
         price: 597085,
         code: "1645"
     }, {
-        link: "italfrigo_toscana_wl_1250.html",
-        title: "Italfrigo Toscana WL ВПС 1250 Д",
-        desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 1250 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        link: "italfrigo_toscana_wl.html",
+        title: "Italfrigo Toscana WL ВПС",
+        desc: "Витрина открытого типа Italfrigo Toscana WL (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
         price: 844731,
         code: "1700"
-    }, {
-        link: "italfrigo_toscana_wl_1875.html",
-        title: "Italfrigo Toscana WL ВПС 1875 Д",
-        desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 1875 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
-        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
-        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
-        price: 1113023,
-        code: "1701"
-    }, {
-        link: "italfrigo_toscana_wl_2500.html",
-        title: "Italfrigo Toscana WL ВПС 2500 Д",
-        desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 2500 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
-        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
-        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
-        price: 1336411,
-        code: "1702"
-    }, {
-        link: "italfrigo_toscana_wl_3750.html",
-        title: "Italfrigo Toscana WL ВПС 3750 Д",
-        desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 3750 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
-        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
-        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
-        price: 1795733,
-        code: "1703"
     },
+    // {
+    //     link: "italfrigo_toscana_wl_1875.html",
+    //     title: "Italfrigo Toscana WL ВПС 1875 Д",
+    //     desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 1875 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+    //     img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+    //     img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+    //     price: 1113023,
+    //     code: "1701"
+    // }, {
+    //     link: "italfrigo_toscana_wl_2500.html",
+    //     title: "Italfrigo Toscana WL ВПС 2500 Д",
+    //     desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 2500 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+    //     img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+    //     img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+    //     price: 1336411,
+    //     code: "1702"
+    // }, {
+    //     link: "italfrigo_toscana_wl_3750.html",
+    //     title: "Italfrigo Toscana WL ВПС 3750 Д",
+    //     desc: "Витрина открытого типа Italfrigo Toscana WL ВПС 3750 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+    //     img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+    //     img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_1.jpg",
+    //     price: 1795733,
+    //     code: "1703"
+    // },
     // _______________________________________________________________
     {
-        link: "italfrigo_toscana_wl_self_1250.html",
-        title: "Italfrigo Toscana WL Self ВПС 1250 Д",
-        desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 1250 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+        link: "italfrigo_toscana_wl_self.html",
+        title: "Italfrigo Toscana WL Self",
+        desc: "Витрина открытого типа Italfrigo Toscana WL Self (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
         img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
         price: 824792,
         code: "1704"
-    }, {
-        link: "italfrigo_toscana_wl_self_1875.html",
-        title: "Italfrigo Toscana WL Self ВПС 1875 Д",
-        desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 1875 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
-        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
-        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
-        price: 1086163,
-        code: "1705"
-    }, {
-        link: "italfrigo_toscana_wl_self_2500.html",
-        title: "Italfrigo Toscana WL Self ВПС 2500 Д",
-        desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 2500 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
-        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
-        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
-        price: 1304045,
-        code: "1706"
-    }, {
-        link: "italfrigo_toscana_wl_self_3750.html",
-        title: "Italfrigo Toscana WL Self ВПС 3750 Д",
-        desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 3750 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
-        img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
-        img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
-        price: 1751201,
-        code: "1707"
-    }, {
+    },
+    // {
+    //     link: "italfrigo_toscana_wl_self_1875.html",
+    //     title: "Italfrigo Toscana WL Self ВПС 1875 Д",
+    //     desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 1875 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+    //     img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+    //     img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+    //     price: 1086163,
+    //     code: "1705"
+    // }, {
+    //     link: "italfrigo_toscana_wl_self_2500.html",
+    //     title: "Italfrigo Toscana WL Self ВПС 2500 Д",
+    //     desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 2500 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+    //     img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+    //     img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+    //     price: 1304045,
+    //     code: "1706"
+    // }, {
+    //     link: "italfrigo_toscana_wl_self_3750.html",
+    //     title: "Italfrigo Toscana WL Self ВПС 3750 Д",
+    //     desc: "Витрина открытого типа Italfrigo Toscana WL Self ВПС 3750 Д (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
+    //     img: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+    //     img2: "/themes/images/products/vitrina/cryspi/italfrigo_toscana_wl_self_1.jpg",
+    //     price: 1751201,
+    //     code: "1707"
+    // }, 
+    {
         link: "italfrigo_toscana_q.html",
         title: "Italfrigo Toscana Quadro",
         desc: "Витрина открытого типа Italfrigo Toscana Quadro (выносной агрегат) предназначена для демонстрации предназначен для экспозиции, продажи и кратковременного хранения охлажденной рыбы и морепродуктов. Отличается стильным кубическим дизайном, максимальной обзорностью выкладки и отсутствием бликов на стекле.",
@@ -950,38 +953,40 @@ const pristen = [{
         price: 3061473,
         code: "1800"
     }, {
-        link: "italfrigo_milan_L_1562.html",
-        title: "Морозильный шкаф Italfrigo Milan L D2 1562",
-        desc: "Морозильный пристенный шкаф Italfrigo Milan L D2 1562 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+        link: "italfrigo_milan_L.html",
+        title: "Морозильный шкаф Italfrigo Milan L",
+        desc: "Морозильный пристенный шкаф Italfrigo Milan L (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
         img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
         img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
         price: 2615606,
         code: "1801"
-    }, {
-        link: "italfrigo_milan_L_2343.html",
-        title: "Морозильный шкаф Italfrigo Milan L D3 2343",
-        desc: "Морозильный пристенный шкаф Italfrigo Milan L D3 2343 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
-        img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-        img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-        price: 3423216,
-        code: "1802"
-    }, {
-        link: "italfrigo_milan_L_3123.html",
-        title: "Морозильный шкаф Italfrigo Milan L D4 3123",
-        desc: "Морозильный пристенный шкаф Italfrigo Milan L D4 3123 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
-        img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-        img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-        price: 4784861,
-        code: "1803"
-    }, {
-        link: "italfrigo_milan_L_3905.html",
-        title: "Морозильный шкаф Italfrigo Milan L D5 3905",
-        desc: "Морозильный пристенный шкаф Italfrigo Milan L D5 3905 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
-        img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-        img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
-        price: 5762440,
-        code: "1804"
-    }, {
+    },
+    // {
+    //     link: "italfrigo_milan_L_2343.html",
+    //     title: "Морозильный шкаф Italfrigo Milan L D3 2343",
+    //     desc: "Морозильный пристенный шкаф Italfrigo Milan L D3 2343 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+    //     img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    //     img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    //     price: 3423216,
+    //     code: "1802"
+    // }, {
+    //     link: "italfrigo_milan_L_3123.html",
+    //     title: "Морозильный шкаф Italfrigo Milan L D4 3123",
+    //     desc: "Морозильный пристенный шкаф Italfrigo Milan L D4 3123 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+    //     img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    //     img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    //     price: 4784861,
+    //     code: "1803"
+    // }, {
+    //     link: "italfrigo_milan_L_3905.html",
+    //     title: "Морозильный шкаф Italfrigo Milan L D5 3905",
+    //     desc: "Морозильный пристенный шкаф Italfrigo Milan L D5 3905 (выносной агрегат) предназначен для демонстрации, экспозиции и хранения замороженных продуктов и полуфабрикатов в магазинах любого формата.",
+    //     img: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    //     img2: "/themes/images/products/shkaf/crispi/milan_l_1.jpg",
+    //     price: 5762440,
+    //     code: "1804"
+    // }, 
+    {
         link: "italfrigo_lazio_s9_1250.html",
         title: "Пристенная витрина Italfrigo Lazio S9 1250 Д",
         desc: "Пристенная холодильная витрина – прилавок Italfrigo Lazio S9 (выносной агрегат) предназначена для демонстрации, продажи и кратковременного хранения предварительно охлаждённых до температуры охлаждаемого объема пищевых продуктов.",
